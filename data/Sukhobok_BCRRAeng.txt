@@ -1,0 +1,71 @@
+Sukhobok
+BCRRA-2017
+2017
+Soft soils boundaries detection by GPR (the Case of Port Antioquia Survey, Colombia)
+
+Soft soils boundaries detection by GPR (the Case of Port Antioquia Survey, Colombia)
+ABSTRACT: The paper presents the detection of soft soils boundaries using developed ground penetrating radar (GPR) technique. These soils, characterized by small difference between the velocities of adjacent layers, make the detection of the time-distance curves, obtained from common midpoint CMP soundings, by conventional velocity spectrum analysis technique very complicating. The numerous number of possible positions of the curves cannot be reduced to realistic one in this case. To overcome this drawback, the general principles of the new technique eliminating the unacceptable values of rms velocities on the basis of Dix’s formula was proposed. This technique may contribute significantly in the development of new project solutions improving the bearing capacity of soft soils. Some results of the technique’s implementation on the case of Port Antioquia Survey, Colombia are summarized.
+1 INTRODUCTION Detection of the soft soils during the foundation design is one of the main geotechnical tasks for engineers. Since these soils are more vulnerable to the deformations, an accurate estimation of the cross-section needs to be done for further development of the reliable and cost-effective projects of the basement of civil structures.
+The conventional method of measuring thickness of soil layers is manual drilling. Being destructive, time-consuming and having limited spatial resolution (Liu 2012), this method has been substituted by modern non-destructive techniques, such as cone penetrating testing (CPT), seismic, electric and electromagnetic methods.
+Ground penetrating radar (GPR) is a geophysical method for the non-destructive detection of ground layers by electromagnetic waves. GPR measures the two-way travel-time of the reflected electromagnetic wave propagating through the ground layers. The thickness of these layers is estimated after determination of the EM velocity, V, propagation which, in turn, controlled by the relative dielectric permittivity εr (Daniels 2009, Jol 2009):  where c is the EM velocity in vacuum, 0.3 m/ns.
+GPR has been proved as an effective non-destructive tool for solving variety of engineering tasks including soil moisture studies, stratigraphy of unconsolidated and consolidated sediments, permafrost, geotechnical and hydrogeological applications (Jacob 2004).
+The benefits of GPR include development of the continuous GPR section, high efficiency and low cost. However, complexity of the results processing depending on the experience of an engineer may significantly reduce the accuracy of the results. Therefore, new simplified techniques of the radagram processing need to be done. In case of soft soils characterised by small difference between the velocities of adjacent layers, which change gradually, the velocity model of the transformation technique of the source reflection-time section to the depth section should be created.
+2 CURRENT TECHIQUES FOR THE DEVELOPMENT OF THE VELOCITY MODEL USING GPR 
+In order to transform the source reflection-time section to the depth section, the interval velocity of electromagnetic waves propagation in each layer has to be calculated. However, the velocity acquisition is extremely complicated using common-offset GPR profiling even when the borehole data is available (Bohidar & Hermance, 2002).
+In order to estimate velocities, few techniques have been developed. The simplest method is based on a velocity calculation according to the diffraction curves (Daniels 2009, Jol 2009). These hyperbolic form curves, appearing only when there are local diffractors in the section area, provide the comprehensive information about the velocity. However, this technique is not versatile because the diffractors usually laid in the upper soil layer and extended non-uniformly along the profile length.
+Another technique is based on jumps of the signal amplitude on the boundaries of layers (Huang 2004). The main drawback of the method is the complexity of the measurement of the decaying signal amplitude, leading to significant errors, especially, when the depth of reflecting boundary increases.
+The most versatile technique is the multi-offset measurement by GPR. Velocity estimation from multi-offset GPR dataset is based on a hyperbolic assumption, where the reflecting interface is horizontally layered and the medium is homogeneous (Liu et al. 2014). The relationship between reflected wave time t, antenna offset x and rms velocity Vrms is given for each horizon time by:  In the presence of horizontally stratified medium, the velocity spectrum analysis technique is commonly used for estimating velocities of EM waves (Liu & Sato 2012, Liu et al. 2014, Cai et al. 2016). Jacob & Hermance (2004) demonstrated that the velocities and two-way traveltimes may be optimally resolved at the 95% confidence level with precisions of ±0.001 m/ns and ±0.7 ns, respectively.
+Velocity spectrum has been commonly used to estimate velocity in seismic data processing and also GPR data processing (Yilmaz 2001). This robust method displays the stacked coherency of signal in different channels along the hyperbolic curve defined by a range of rms velocities. The coherency is measured by semblance as follows (Yilmaz 2001): where wxt is the amplitude of signal acquired in the x antenna offset at two-way travel-time t.
+Two-way zero-offset travel-time and stacking velocity can be picked from the reflection event in the velocity spectrum. The required interval velocity in the layer can be calculated by Dix’s equation (Dix 1955): where Vrms,i and Vrms,(i-1) are the rms velocities at the layer boundaries i and i-1, respectively; and t0,i and t0,(i-1) are the horizon times at these layer boundaries.
+The depth of n-th boundary layer can be computed as follows: 
+This technique has been improved for the soil layers significantly differing in velocities (Sukhobok et al. 2016). However, for the soft soils with small difference between the velocities, another modified technique has to be developed. This paper focuses on the formulation of the general principles of the layers boundaries in these soils.
+3 DELINEATION OF THE BOUNDARIES IN SOFT SOILS 
+Detection of the time-distance curves by conventional methods (Liu et al. 2014, Cai et al. 2016) becomes very complicated since the engineer cannot reduce the number of possible positions of the curves. Moreover, this ambiguity increases for the saturated soils having significant amplitude attenuation.
+The following promising solution of the problem reducing the number of variants through the limitations of the positions of the curves is proposed.
+The first limitation for the calculation of the minimum rms velocity, based on the Dix’s formula (4), is follows: where Vrms,(i-1) and t0,(i-1) are the rms velocity and the horizon times at the previous layer boundary, respectively; t0 > t0,(i-1).
+The maximum velocity determination requires preliminary investigations of the soil conditions and is calculated as follows: where Vintmax is the maximum interval velocity (Daniels 2009, Jol 2009).
+On the basis of the extreme values of the rms velocities, semblance spectra curves can be developed by implementation of the following steps:  
+1. Enumeration of the time values from t0,(i-1) to tmax in automatic mode. t0,(i-1) value is extracted from upper hyperbolic time-distance curve (Fig. 1) delineated in advance.
+2. Computation of the values of velocities using Eq. (6) and (7).
+3. Rendering of these values to produce the limited curves shown in Fig. 2.
+Verification of of the obtained boundaries by this method can be accomplished by other geotechnical methods. Then the vertical interval velocity profile of these measurements updates automatically when adding the hyperbolic curve.
+The processing software based on proposed technique has been developed. The Python programming language together with numpy math library and matplotlib visualization library have been used for this purpose.
+4 APPLICATION OF PROPOSED TECHNIQUE TO THE PORT ANTIOQUIA SURVEY DATA 
+The field data was obtained in October 2016. The task was to define extension of the layers for the future development of the design project, increasing the bearing capacity of the site. The initial data was obtained from the CPT tests.
+CMP datasets were collected at two locations while common-offset GPR profiles were acquired along six lines (Figs 3-4), using commercial LOZAV GPR system with a 150 MHz antenna. The time window was 512 ns, and the number of sampling points was 512.
+An example of the acquired CMP datasets after pre-processing is shown in Figure 5. The data processing steps include zero time correction, gain control and frequency domain filtering.
+The limitations of velocities based on developed algorithm are shown in the semblance spectra  (Fig. 6). It is clear from this figure that velocity detection cannot be done directly. The proposed limitations of rms velocities provided the opportunity to narrow their range. The maximum interval velocity was 0.100 m/ns. The time-distance curves were delineated on the basis of these assumptions (Fig. 5).
+Then, rms velocities were converted to required interval velocities using formula (4) and shown in Figure 7. The acquired common-offset GPR profile after processing is shown in Figure 8. The time-zero was estimated from the arrival-time of the air direct coupling, the known air velocity and antenna separation following by further correction. The soil boundaries were delineated and the depth section was created. The obtained results were compared with cone penetrating data (Robertson & Cabal 2009).
+The obtained results enabled to identify four layers. The further calculations given the design solution, gravel or sand piles confined by the high strength geotextiles. An example of the deformations of these 3 m piles is shown in Figure 9.
+5 CONCLUSIONS 
+The general principles of the layer’s boundaries in soft soils with small difference between the electromagnetic propagation velocities were formulated through the elimination of the unacceptable values of rms velocities. This contributed to the increase of the reliability of the detection velocities and boundaries in soft soils. This technique has a promising application for the development of the new project solutions of the improvement of the bearing capacity of soft soils as well as the revision of the existing ones.
+AKNOWLEDGMENTS This research has been supported by funding from Foundation for Assistance to Small Innovative Enterprises («Фонд содействия развитию малых форм предприятий в научно-технической сфере») under contract 7898ГУ2015. The authors would like to show appreciation to Anastasiia Y. Plotnikova, the PhD Candidate of the University of Auckland and Dmitry Y. Maleev, the Docent of the Far East State Transport University for helping us to improve the quality of paper.
+
+Figure 1. Sample CMP dataset after pre-processing 
+Figure 3. Location of sounding data. Lines represent commonoffset data, circles – common mid-point data, triangles – cone penetrating data  
+Figure 2. Calculated velocity spectra. The stacking velocity of reflections from the boundaries picked from the maximum amplitude of their responses. Black curves represent the minimum and maximum velocities at each time.
+Figure 4. Photograph from field measurement by LOZA-V GPR system  
+Figure 7. Vertical interval velocity profile 
+Figure 5. Example of CMP soundings. The reflected phases are indicated.
+Figure 8. Cross section of the estimated soil profile  
+Figure 6. Calculated velocity spectra. Black curves represent the minimum and maximum velocities at each time.
+Figure 9. Vertical deformations of the piles  
+
+REFERENCES 
+Bohidar, R.N. & Hermance J.F. 2002. The GPR refraction method. Geophysics 67(5): 1474-1485.
+Cai, J.Q., Liu, S.X. & Fu, L. 2016. Detection of railway subgrade moisture content by GPR. 16th International Conference of Ground Penetrating Radar: 1-5.
+Daniels, D.J. (ed.) 2009. Ground Penetrating Radar. London: the Institution of Electrical Engineers.
+Dix, C.H. 1955. Seismic velocities from surface measurements.
+Geophysics 20: 68-86.
+Huang, C. & Su, Y. 2004. A new GPR calibration method for high accuracy thickness and permittivity measurement of multi-layered pavement. Tenth International Conference of Ground Penetrating Radar: 627-630.
+Huisman, J.A., Hubbard, S.S., Redman, J.D. & Annan, A.P.
+2003. Measuring soil water content with ground penetrating radar: a review. Vadose Zone Journal 2: 476-491.
+Jacob, R.W. & Hermance, J.F. 2004. Assessing the precision of GPR velocity and vertical two-way travel time estimates.
+Journal of Environmental and Engineering Geophysics 9: 143-153.
+Jol, H.M. (ed.) 2009. Ground Penetrating Radar: Theory and Applications. Amsterdam: Elsevier Science.
+Liu, H. & Sato, M. 2012 Dynamic groundwater level estimation by the velocity spectrum analysis of GPR. International Conference on Ground Penetrating Radar: 413-418.
+Liu, H., Takahashi, K. & Sato, M. 2014. Measurement of dielectric permittivity and thickness of snow and ice on a brackish lagoon using GPR. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 7: 820-827.
+Mayne, P.W. 2014. Interpretation of geotechnical parameters from seismic piezocone tests. Proceedings of the 3rd International Symposium on Cone Penetration Testing (CPT'14, Las Vegas): 47-73.
+Robertson, P.K. & Cabal K.L. 2009. Guide to Cone Penetrating Testing for Geotechnical Engineering. Signal Hill: Gregg Drilling & Testing, Inc.
+Sukhobok, Y.A., Pupatenko, V.V., Stoyanovich, G.M. & Ponomarchuk, Y.V. 2016. Soil Formation Lithological Profiling Using Ground Penetrating Radar. Procedia Engineering. Advances in Transportation Geotechnics 3. The 3rd International Conference on Transportation Geotechnics (ICTG 2016) 143: 1236-1243.
+Yilmaz, O. 2001. Seismic Data Analysis. Tulsa: Society of Exploration geophysics.

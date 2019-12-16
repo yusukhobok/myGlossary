@@ -1,0 +1,372 @@
+the book under review
+рассматриваемая (рецензируемая) книга 
+the book constitutes
+книга представляет собой 
+the book comprises
+книга включает 
+the book deals with
+книга касается 
+the book treats
+книга анализирует, затрагивает 
+the book discusses
+книга рассматривает 
+the book presents
+книга представляет собой 
+the book summarizes
+книга обобщает 
+the material is given (material)
+материал подан 
+the material is presented
+материал представлен 
+the material is devoted to
+материал посвящен 
+the material is referred to
+материал относится к... 
+the material is emphasized
+подчеркивается. 
+The book constitutes a critical review of... 
+Книга представляет собой критический обзор 
+...principles are especially emphasized. 
+Особенно подчеркиваются... принципы 
+The work treats and summarizes the knowledge on... 
+Работа анализирует и обобщает сведения по... 
+The information is given as a part of synthetic whole. 
+Информация подается как часть единого целого. 
+The work deals with... 
+Работа касается... 
+The book constitutes a review of... 
+Книга представляет собой обзор.. 
+The information on... is given as a part of... 
+Информация о... представлена как часть... 
+The book gives a general background for... 
+Книга предоставляет общий фон для... 
+The monograph is devoted to... 
+Монография посвящена... 
+Much material on... is presented in the book under review. 
+Много материала о... представлено в рецензируемой книге. 
+The paper constitutes a thorough discussion on... 
+Книга представляет собой подробное рассмотрение... 
+the work under review
+рассматриваемая  (рецензируемая) работа 
+the first (the second etc) edition
+первое (второе и т. д.) издание 
+content
+содержание 
+publication
+опубликование (издание) 
+reason
+причина 
+the main reason (why, of, for)
+основная причина того, что (почему, для чего) 
+achievement
+достижение 
+revision
+переработка, изменение 
+attempt
+попытка 
+make an attempt
+пытаться, стараться 
+discuss
+обсуждать 
+explore
+исследовать 
+handle
+рассматривать 
+mention
+упоминать 
+publish
+публиковать, издавать 
+undertake
+предпринимать 
+witness
+свидетельствовать 
+revise
+пересматривать, исправлять, перерабатывать 
+revised and completed
+исправленное и дополненное 
+keep in mind
+помнить 
+bear in mind
+помнить 
+is to be presumed
+следует ожидать 
+mention just a few
+упоминая только несколько 
+(warmly) welcome
+(тепло) встречать 
+appear in print
+выходить из печати 
+recently
+недавно 
+lately
+за последнее время 
+the last few decades
+за последние десятилетия 
+the last few months (years)
+за последние месяцы (годы). 
+The last few decades have witnessed an increase of importance... 
+За последние десятилетия возросло значение... 
+The authors undertook the complete revision of the second edition. 
+Во втором издании авторы значительно переработали и дополнили (монографию). 
+The work under review is an outstanding to the field of... 
+Рассматриваемая работа является выдающимся достижением в области... 
+The peculiar history of the book should be born in mind. 
+Следует иметь в виду необычайную историю этой книги. 
+Although the publication date is 2005, the book appeared in print in 1980. 
+Хотя книга датирована 2005 годом, она была  опубликована в 1980 году. 
+volume
+том 
+part
+часть 
+chapter
+глава 
+section
+раздел 
+paragraph
+абзац 
+illustrations
+рисунки, пояснения 
+references
+ссылки 
+list of literature
+список литературы 
+constitute
+представлять собой 
+comprise
+состоять из... 
+cover
+охватывать, занимать 
+analyze
+анализировать 
+deal with
+иметь дело 
+treat
+трактовать 
+give
+подавать 
+present
+представлять (материал) 
+reflect
+отражать 
+illustrate
+иллюстрировать 
+arrange
+располагать, классифицировать 
+be followed
+сопровождаться 
+be referred to
+ссылаться на 
+the book comprises
+книга состоит из... 
+The book comprises five chapters. 
+Книга состоит из пяти глав. 
+The monograph covers a large information on... 
+Монография охватывает большой объем информации по... 
+Introduction is followed by the chapters devoted to... 
+За введением следуют главы, посвященные... 
+The first chapter of the book discusses... 
+В первой главе книги обсуждается... 
+The final section of the book discusses... 
+В последнем разделе книги обсуждается... 
+advantage
+преимущества, достоинства 
+merits
+достоинства 
+achievement
+достижение 
+contribution
+вклад 
+grasp
+обзор, охват, понимание 
+coverage
+охват 
+depth
+глубина 
+foundation
+основа, обоснование 
+considerations
+соображения, выводы 
+success
+успех 
+survey
+обзор, анализ 
+treatment
+анализ, разбор, рассмотрение 
+starting point
+начало, исходный момент 
+contain
+содержать, включать 
+deal with
+рассматривать 
+survey
+разбирать, исследовать 
+treat
+разбирать 
+adequate
+точный 
+clear
+четкий 
+comprehensive
+полный, исчерпывающий 
+exclusive
+исключительный, уникальный 
+deep
+глубокий 
+original
+самостоятельный 
+profound
+первый, глубокий, вдумчивый 
+rich
+богатый (по содержанию) 
+successful
+успешный 
+various
+разнообразный 
+up-to-date
+современный 
+extensive cover of (literature, material)
+широкий охват (литературы, материала) 
+a great variety of
+большое разнообразие 
+a wide and intelligent grasp of
+обширный и проницательный охват (обзор) 
+at the high level
+на высоком уровне 
+in addition to
+в дополнение к... 
+besides
+кроме того, что. 
+The chapters provide interesting reading due to the original approach and rich contents. 
+Благодаря оригинальному материалу и богатому содержанию этих глав, они читаются с большим интересом. 
+The due regards are given to results obtained with... 
+Должное внимание обращено на результаты, полученные... 
+The main achievement of the work lies in a very profound treatment of the experimental material. 
+Основная ценность этой работы заключается в очень глубоком анализе экспериментального материала. 
+The presentation of... is rather successful. 
+Подача (представление)... вполне успешна. 
+The coverage of the book is extremely wide. 
+Книга охватывает вполне обширный материал. 
+disadvantages
+недостатки 
+shortcomings
+недостатки 
+mistakes
+ошибки 
+misprints
+опечатки 
+misspells
+описки 
+errors
+заблуждения (в научном смысле) 
+lapses
+описки 
+omission
+пропуск, упущение 
+feature
+характерная черта 
+references
+ссылки 
+mention
+упоминать 
+refer to
+ссылаться 
+replace
+заменять 
+retrieve (information)
+извлекать информацию 
+illustrate
+подтверждать, иллюстрировать 
+give consideration to
+принимать во внимание 
+difficult
+трудный 
+disappointing
+разочаровывающий 
+erroneous
+ошибочный 
+generalized
+обобщенный 
+inadequate
+не отвечающий требованиям 
+outdated
+устаревший 
+regretful
+вызывающий сожаление 
+scares
+редкий; малое количество 
+tediour
+скучный, утомительный 
+unfortunately
+к сожалению 
+regretfully
+к сожалению 
+it is to be regretted
+остается пожалеть 
+The information concerning the problem is erroneous. 
+Информация, касающаяся этого вопроса, ошибочна. 
+A few of the references are given to the long outdated publications. 
+Некоторые ссылки даны на уже устаревшие источники. 
+The absence of theoretical treatment is disappointing. Apparently practical matters are of more interest for the author. 
+Вызывает разочарование отсутствие теоретических положений. Очевидно, что автора больше интересуют практические вопросы. 
+Unpardonable are numerous misprints and mistakes which can bring to the erroneous understanding. 
+Непростительны многочисленные опечатки и ошибки, которые могут привести к искажению смысла. 
+In the first chapter the above mentioned aspects are worked out in details. 
+В первой главе детально разработаны вышеупомянутые аспекты. 
+Unfortunately the data are not numerous and in many cases are outdated. 
+К сожалению, данные являются немногочисленными и во многих случаях устаревшими. 
+Thanks to quite new and original approach to the problem and a great variety of material the paper provides an interesting reading but regretfully the given information is outdated. 
+Благодаря совершенно новому и оригинальному подходу к проблеме и большому разнообразию материала, статья читается интересно, но, к сожалению, представленная информация устарела. 
+Except extensive cover of literature to be presented on the part of the authors the monograph contains a wide and intelligent grasp of contribution which has been made by Russian and European researches. 
+Помимо большого охвата литературы, представленного авторами, монография содержит широкий обзор того вклада, который был сделан российскими и европейскими исследователями. 
+Familiarity with the content of the monograph will give the reader deeper and contemporary comprehension of the subject. 
+Знакомство с содержанием монографии представит читателю более глубокое и современное понимание предмета. 
+It is to be regretted that the editorial work is not at the same level as the work itself because there are many misspells, misprints as well as some of data are erroneous. 
+Вызывает сожаление, что издательская работа не на таком же высоком уровне, как сама работа, потому что в ней много орфографических ошибок, опечаток, так же как и неточных данных. 
+in conclusion
+в заключение 
+it can be said
+можно сказать 
+it can be highly recommended
+можно с уверенностью рекомендовать 
+it is an outstanding event
+это выдающееся событие 
+it is an outstanding achievement
+это выдающееся достижение 
+it is to be warmly welcomed
+нужно всячески горячо приветствовать 
+in spite of minor faults it should be recommended
+несмотря на мелкие погрешности, она должна быть рекомендована 
+valuable as it is to... it is of even greater value to...
+при всей своей ценности для... она представляет еще большую ценность для... 
+an invaluable aspect of the book is...
+неоценимое значение книги в том, что... 
+incidental mistakes in no way prevent...
+случайные ошибки никоим образом не умаляют... 
+Such mistakes and omissions are, however, incidental and in no way prevent the book being a most stimulating and useful. 
+Однако такие ошибки и недостатки случайны и никоим образом не умаляют достоинства работы. 
+Any attempt to continue the investigation is to be warmly welcomed. 
+Нужно приветствовать любую попытку продолжить исследование. 
+The work under review is an outstanding achievement of the year. 
+Рецензируемая работа является выдающимся событием этого года. 
+In conclusion I'd like to stress great significance of this work. 
+В заключение мне хотелось бы подчеркнуть большое значение этой работы. 
+The work is an outstanding achievement of contemporary science. 
+Эта работа является выдающимся достижением современной науки. 
+This monograph can be highly recommended to those interested in a given field of science. 
+Эта монография может быть с уверенностью рекомендована всем, кто интересуется данной областью науки. 
+Despite minor faults this book should be recommended to publish. 
+Несмотря на мелкие погрешности, эта книга может быть рекомендована к печати. 
+This book is a comprehensive source of different information and ideas. 
+Эта книга является исчерпывающим источником всевозможных сведений и идей. 
+The work has been compiled from original sources. 
+Книга составлена по первоисточникам. 
+Valuable as it is to researchers it is of even greater value to students. 
+При всей своей ценности для исследователей она представляет еще большую ценность для студентов. 
+If you wish to know contemporary scientific conceptions and their place in the field of a given science you should read this monograph. 
+Если вы хотите узнать современные научные концепции и их место в данной науке, вы должны прочитать эту монографию. 
+In spite of minor faults this work is to be warmly welcomed. 
+Несмотря на мелкие погрешности, эту работу нужно горячо приветствовать. 
+It should be recommended to have at every library for researchers. 
+Ее следует рекомендовать для исследователей каждой научной библиотеке. 
+This great scientific achievement is worth mentioning at every international scientific congress. 
+Это великое научное достижение заслуживает упоминания на каждом международном научном съезде. 

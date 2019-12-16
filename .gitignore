@@ -1,0 +1,7 @@
+*.pyc
+/myglossary-env
+/.idea
+*.pdf
+*.djvu
+*.doc
+*.docx

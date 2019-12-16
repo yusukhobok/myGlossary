@@ -1,0 +1,4245 @@
+Pajewski
+COST ACTION TU1208
+2014
+COST ACTION TU1208, Short Term Scientific Missions & Training Schools, Year 1
+
+
+COST%ACTION%TU1208%
+!
+
+CIVIL%%ENGINEERING%%APPLICATIONS%%OF!
+GROUND%%PENETRATING%%RADAR%%%
+%
+
+Short&Term*Scientific*Missions*&*Training*Schools*
+Year*1*
+Editors:*Lara*Pajewski*&*Marian*Marciniak*
+*
+
+*
+*
+
+TU1208 Basic Info
+Start - End of Action: 4 April 2013 - 3 April 2017
+Chair of the Action:
+Dr. Lara Pajewski
+Roma Tre University, IT
+lara.pajewski@uniroma3.it
+Vice-Chair of the Action:
+Prof. Andreas Loizos
+National Technical University of Athens, EL
+COST TUD DC Chair:
+Prof. Cristina Pronello
+Politecnico di Torino, IT
+COST TUD DC Rapporteur:
+Dr. Goran Mladenovic
+University of Belgrade, RS
+COST Science Officer:
+Dr. Mickael Pero
+COST Office, BE
+COST Administrative Officer:
+Ms. Carmencita Malimban
+COST Office, BE
+Grant Holder:
+Roma Tre University, Department of Engineering, IT
+Editorial Coordinator of the Action:
+Prof. Andrea Benedetto
+Roma Tre University, IT
+Chairs of Working Groups (WGs):
+− WG1: Dr. Guido Manacorda, IDS Ingegneria dei Sistemi, IT
+− WG2: Dr. Christina Plati, National Technical University of Athens, EL
+− WG3: Dr. Antonis Giannopoulos, University of Edinburgh, UK
+− WG4: Dr. Immo Trinks, Ludwig Boltzmann Institute for
+Archaeological Prospection and Virtual Archaeology, AT
+Short-Term Scientific Missions (STSMs) Manager:
+Prof. Marian Marciniak
+National Institute of Telecommunications, PL
+
+!
+
+!
+!
+Rome,!02!August!2013!
+!
+!
+!
+!
+
+COST%Action%TU1208%
+!
+
+Civil%Engineering%Applications%of%Ground%Penetrating%Radar%
+
+!
+
+First%Action’s%General%Meeting%
+%
+Scientific%Report%
+%
+%
+%
+!
+
+Date:&
+22024!July!2013!!
+!
+!
+!
+Venue:&
+“Roma!Tre”!University!
+Department!of!Engineering!
+via!Vito!Volterra!60062!
+00146!Rome,!Italy!
+!
+!
+!
+Local&Host:&
+Lara!Pajewski!(lara.pajewski@uniroma3.it)!
+!
+!
+
+COST%ACTION%TU1208%
+CIVIL%%ENGINEERING%%APPLICATIONS%%OF%
+GROUND%%PENETRATING%%RADAR%%"
+"
+
+!
+!
+1!
+Short'Term!Scientific!Missions!and!Training!Schools:!Year!1"
+Editors:!Lara!Pajewski!&!Marian!Marciniak"
+
+1"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+2"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+PREFACE
+SHORT-TERM SCIENTIFIC MISSIONS AND TRAINING SCHOOLS: YEAR 1
+
+COST ACTION TU1208
+“CIVIL ENGINEERING APPLICATIONS OF GROUND PENETRATING RADAR”
+Short-Term Scientific Missions (STSMs) and Training Schools (TSs)
+are among the most interesting networking tools supported by
+COST (European COoperation in Science and Technology). During
+Year 1 of the COST Action TU1208, four STSMs were funded and
+fruitfully carried out. Furthermore, two TSs were organised and
+successfully held. This book includes reports resuming these
+research and didactic activities.
+STSMs are aimed at supporting individual mobility of
+European researchers, strengthening networks and fostering
+collaborations. They allow scientists to visit an institution or
+laboratory in a COST Country participating to the Action, or in an
+approved Near Neighbour Country (NNC) institution, or else in an
+approved International Partner Country (IPC) institution. STSMs
+shall specifically contribute to the scientific objectives of the Action
+offering the grant, at the same time allowing the visiting scientists
+to learn new techniques or gain access to specific instruments
+and/or methods not available in their own institutions.
+STSM proposals have to be submitted by using the online
+application form, available at https://e-services.cost.eu/stsm. The
+Management Committee (MC) of the Action providing the grant
+performs their evaluation. The MC of the Action TU1208 formally
+delegated the evaluation of STSM applications to the Action Chair
+and STSM Manager. The selection of applicants is based on the
+scientific scope of the STSM application, which must be in line
+with the Action objectives, and on the applicant curriculum vitae.
+Geographical and gender balance issues are taken into
+consideration as well. STSM applicants must be engaged in a
+research programme as a postgraduate student or postdoctoral
+fellow, or be employed by or officially affiliated to an institution or
+
+3"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+legal entity. This institution is considered as the Home institution.
+Institutions may be public or private entities.
+Standard STSMs may have a minimum duration of 5 days
+and a maximum duration of 90 days. They need to be carried out
+in their entirety within a single grant period and within the
+Action’s lifetime. Early-Stage Researchers (ESRs) may extend the
+duration of the STSM beyond the 90 days in well-justified cases
+(the maximum allowed duration is 180 days).
+The participation of ESRs in STSMs is strongly encouraged.
+For COST, the definition of ESR is based on the time that elapses
+between the date of the PhD (or equivalent experience) and the
+date of involvement in a COST Action. If this time span is less than
+eight years, a person fits the definition; periods of career’s leave
+have to be added to the mentioned time span. Supporting ESRs to
+develop independent careers and to establish their first research
+group under their own responsibility is a strategic priority for
+COST.
+A STSM grant is a fixed financial contribution, based on the
+budget requested by the applicant and on the evaluation of the
+application by the MC Chair and STSM Manager. The aim of the
+grant is to support the costs associated with the exchange visit. It
+does not necessarily cover all expenses and has to be intended as
+a contribution to the travel and subsistence costs of the
+participant.
+During Year 1 of the COST Action TU1208, 100% of the
+scientists who received STSM grants were ESRs or PhD Students
+and perfect gender balance was achieved. The list of funded
+STSMs is reported in the following:
+A.
+Granted ESR: Dr Lara Pajewski, IT - Host: Dr Antonis
+Giannopoulos, UK
+STSM Title: Electromagnetic modelling of Ground Penetrating Radar
+responses to complex targets
+Dates: from 21 October 2013 to 20 December 2013 - Location:
+University of Edinburgh, School of Engineering, Edinburgh, United
+Kingdom.
+
+4"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+B.
+Granted PhD Student: Philippe De Smedt, BE - Host: Dr Immo
+Trinks, AT
+STSM Title: Reconstructing prehistoric environments at Stonehenge
+with multiple electromagnetic survey methods
+Dates: from 1 February 2014 to 31 March 2014 - Location: Ludwig
+Boltzmann Institute for Archaeological Prospection and Virtual
+Archaeology, Vienna, Austria.
+C.
+Granted ESR: Dr Sonia Santos Assunçao, ES - Host: Klisthenis
+Dimitriadis, EL
+STSM Title: The preservation of the Tholos Tomb of Acharnon
+Dates: from 15 January 2014 to 15 February 2014 - Location:
+GEOSERVICE, Athens, Greece.
+D.
+Granted PhD Student: Iraklis Giannakis, UK – Host: Dr. Lara
+Pajewski, IT
+STSM Title: Numerical modelling of Ground-Penetrating Radar
+antennas
+Dates: from 15 January 2014 to 21 March 2014 - Location: Roma
+Tre University, Rome, Italy.
+TSs aim at widening, broadening and sharing knowledge
+relevant to the Action’s objectives, through the delivery of intensive
+training on a new and emerging subject. They can offer
+familiarisation with unique equipment or expertise that are
+typically to the benefit of ESR, although not exclusively.
+COST financial support covers the organisation costs of TSs,
+as well as the participation of Trainees (by assigning grants) and
+Trainers (by reimbursing travel, accommodation and meal
+expenses). During Year 1 of the Action TU1208, 100% of the
+scientists who received TS Grants were ESRs or PhD Students,
+with a perfect gender balance among them.
+
+5"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+The first TS organised by the COST Action TU1208 focused
+on “Microwave Imaging and Diagnostics: Theory, Techniques,
+Applications.” It was held in Madonna di Campiglio, Italy, on
+March 24-28, 2014. It was a joint initiative of the Action TU1208,
+the Action TD1301 “Development of a European-based
+Collaborative Network to Accelerate Technological, Clinical and
+Commercialisation Progress in the Area of Medical Microwave
+Imaging,” and the European School of Antennas (ESoA).
+Coordinators of the School were Prof Andrea Massa (IT) and Prof
+Tommaso Isernia (IT).
+The second TS covered the state of the art and new trends
+on radar technologies: “Future Radar Systems: Radar2020.” It was
+held in the Karlsruhe Institute of Technology, in Karlsruhe,
+Germany, on May 5-9, 2014. This course was co-organised by the
+Action TU1208, the ESoA, and the European Microwave
+Association (EuMA). The Coordinator was Prof Werner Wiesbeck
+(DE).
+We are deeply grateful to COST, for funding the Action
+TU1208 “Civil Engineering Applications of Ground Penetrating
+Radar,” the research and training activities presented here, and
+the publication of this book.
+
+Lara Pajewski, Chair of the COST Action TU1208
+Marian Marciniak, STSM Manager of the COST Action TU1208
+
+%
+
+%
+
+6"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+STSM 1
+ELECTROMAGNETIC MODELLING
+OF GROUND PENETRATING RADAR RESPONSES TO COMPLEX TARGETS
+Visiting ESR: Dr Lara Pajewski, “Roma Tre” University,
+Engineering Department, Rome, Italy (lara.pajewski@uniroma3.it)
+Host: Prof Antonios Giannopoulos, The University of Edinburgh,
+School of Engineering, Edinburgh, United Kingdom
+STSM Dates: 21 October 2013 – 20 December 2013
+1. PURPOSE OF THE STSM
+
+This STSM focused on the electromagnetic modelling of composite
+structures for Ground Penetrating Radar (GPR) applications, with
+the Finite-Difference Time-Domain (FDTD) technique. The main
+steps and achieved objectives of the STSM were:
+1. Studying the FDTD technique and learning how to use
+the freeware tool GprMax, developed by Prof Antonios
+Giannopoulos.
+2. Developing MATLAB procedures for the processing and
+visualization of GprMax output data. Such procedures are
+now available on the website of COST Action TU1208 for
+free public download.
+3. Defining a set of test scenarios, to be used by research
+groups involved in the Working Group 3 of COST Action
+TU1208, to test and compare different electromagnetic
+forward- and inverse-scattering methods.
+4. Modelling the test scenarios defined in 3 with GprMax.
+An additional objective of the STSM was that of interacting
+with the Chair of COST Action TU1206, Dr Seumas Campbell,
+British Geological Survey, Edinburgh, United Kingdom, in order to
+find out topics of common interest and possible synergies between
+Actions TU1206 and TU1208.
+7"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2. DESCRIPTION OF THE WORK CARRIED OUT DURING THE STSM
+AND OF THE MAIN RESULTS OBTAINED
+
+2.1: THE FDTD TECHNIQUE AND GPRMAX
+In order to predict correctly the GPR response from a particular
+scenario, Maxwell's equations have to be solved, subject to the
+physical and geometrical properties of the considered problem and
+to its initial conditions. Several techniques have been developed in
+computational electromagnetics, for the solution of Maxwell’s
+equations. These methods can be classified into two main
+categories: differential and integral equation solvers, which can be
+implemented in the time or frequency domain. The differential
+solvers include the FDTD and Finite-Volume Time-Domain (FVTD)
+techniques, the Finite Element Method (FEM) and Transmission
+Line Method (TLM). The Method of Moments (MoM), instead, is an
+integral equation method. All of the different techniques present
+compromises between computational efficiency, stability, and the
+ability to model complex geometries. The FDTD presents several
+advantages: it has inherent simplicity, efficiency and conditional
+stability; it is highly versatile; it has become a mature and wellresearched technique.
+GprMax [1] is a well-known and largely validated FDTD
+simulator, developed by Prof. Antonios Giannopoulos and available
+for free public download on www.GprMax.com, along with a
+detailed user guide.
+The first part of the STSM was devoted to studying the FDTD
+technique and to learning how to use GprMax. There is a very
+large amount of information on the FDTD available in the
+literature; good starting points are [2]-[4], whereas the specific
+application of FDTD to the GPR forward scattering problem is
+described in [5]. The GprMax user guide describes the installation
+of GprMax2D and GprMax3D simulators and the various
+commands which are available for the construction of 2D and 3D
+GPR models; it provides some examples, to illustrate the
+procedures that should be followed in order to obtain useful
+
+8"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+models employing GprMax2D/3D; it includes useful hints and
+tips, explaining the most fundamental aspects of using an FDTDbased program and how to avoid the most common errors.
+2.2: MATLAB PROCEDURES
+FOR THE PROCESSING AND VISUALIZATION OF GPRMAX OUTPUT DATA
+On the GprMax website, some MATLAB functions are available for
+free download: they can be used to import in MATLAB the
+GprMax2D/3D output data, stored in binary format, in order to
+process and visualize them.
+The second part of the STSM was devoted to the
+development of further MATLAB procedures. These procedures are
+very simple, however it is believed that scientists willing to use
+GprMax will find them useful (especially those who aren’t expert
+users of MATLAB). They are available for free public download on
+the COST Action TU1208 website www.GPRadar.eu. They are
+reported and shortly described in the following.
+2.2.1: ascan2D.m
+This procedure can be used to plot an A-scan, generated by
+GprMax2D. Here and in the following, according to a
+nomenclature widely accepted by the GPR community, the term ‘Ascan’ refers to an array of electric-field values calculated in a fixed
+spatial point and in T consecutive instants (a GPR trace).
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------ascan2D-----This Matlab procedure uses data generated by 'GprMax2D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display an A-scan at a given trace-number.
+An A-scan is a single waveform recorded by the GPR, where the receiver is in a fixed
+position and, therefore, the only variable is the time, which is related to the
+survey's depth by the propagation velocity.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+
+9"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+% 2013 - 2017, www.GPRadar.eu,"Chair: Lara Pajewski, Italy
+clear all;
+name = 'filename.out';
+% 'filename.out' is the output file generated by 'GprMax2D'
+[Header, Fields] = GprMax( name )
+E(:,:) = Fields.ez(:,1,:);
+% extracts the values of the Ez component
+tw=Fields.t*10^9;
+% extracts the vector of time instants, in ns
+figure;
+tracenum=1;
+% you can put here the number of the A-scan to be plotted
+plot(tw,E(:,tracenum),'LineWidth',2)
+title('A-scan','fontsize',20);
+ylabel('Amplitude','fontsize',18);
+xlabel('Time [ns]','fontsize',18);
+legend('Trace');
+
+2.2.2: ascan3D.m
+This procedure can be used to plot an A-scan, generated by
+GprMax3D.
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------ascan3D-----This Matlab procedure uses data generated by 'GprMax3D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display an A-scan at a given trace-number.
+An A-scan is a single waveform recorded by the GPR, where the receiver is in a fixed
+position and, therefore, the only variable is the time, which is related to the
+survey's depth by the propagation velocity.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+
+clear all
+name = 'filename.out';
+% 'filename.out' is the file generated by 'GprMax3D'
+[Header, Fields] = GprMax( name ); % extracts the E-field components
+Ex = Fields.ex(:,:);
+Ey = Fields.ey(:,:);
+Ez = Fields.ez(:,:);
+tw=Fields.t*10^9;
+% extracts the vector of time instants, in ns
+figure;
+tracenum=1;
+% you can put here the number of the A-scan to be plotted
+plot(tw,Ex(:,tracenum),tw,Ey(:,tracenum), 'r',tw,Ez(:,tracenum),'g','LineWidth',2)
+title('A-scan','fontsize',18);
+ylabel('Amplitude','fontsize',14);
+xlabel('Time [ns]','fontsize',14); legend('Ex','Ey','Ez');
+
+10"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2.2.3: ascan2Dback.m
+This procedure can be used to plot an A-scan of the backscattered field, generated by GprMax2D. In order to obtain the
+field back-scattered by an object (or by a set of objects), according
+to the electromagnetic-field superposition principle valid for all
+linear systems, GprMax2D has to be run twice: a first time, it has
+to be run in the presence of the complete scenario; a second time,
+it has to be run in the presence of the same scenario without the
+scattering object (or set of objects). The difference between the
+obtained results will give the back-scattered field.
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------ascan2Dback-----This Matlab procedure uses data generated by 'GprMax2D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display an A-scan of the Back-Scattered Field at a given trace-number.
+An A-scan of the Back-Scattered Field is obtained by subtracting
+the undisturbed A-scan (i.e. without scatterers) from the one with scatterers.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+
+clear all;
+% name = 'filename.out', where filename is the name of file generated by 'GprMax2D'
+name1 = 'filename1.out';
+%
+undisturbed A-scan
+name2 = 'filename2.out';
+% A-scan with scatterers
+[Header, Fields] = GprMax( name1 )
+E1(:,:) = Fields.ez(:,1,:);
+[Header, Fields] = GprMax( name2 );
+E2(:,:) = Fields.ez(:,1,:);
+E = E2-E1;
+% subtracts the undisturbed A-scan from the one with scatterers
+tw=Fields.t*10^9;
+% extracts the vector of time instants, in ns
+figure;
+tracenum=1;
+% you can put here the number of the A-scan to be plotted
+plot(tw,E(:,tracenum),'LineWidth',2)
+title('A-scan of the Back-Scattered Field','fontsize',20);
+ylabel('Amplitude','fontsize',18);
+xlabel('Time [ns]','fontsize',18);
+legend('Trace');
+
+11"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2.2.4: bscan2D.m
+This procedure can be used to plot a B-scan, generated by
+GprMax2D. Here and in the following, the term ‘B-scan’
+corresponds to a matrix of electric-field values, calculated in T
+time instants and M different spatial points, meaning M A-scans
+(this is equivalent to assuming that a GPR ‘stops’ in M positions,
+for example along a line parallel to the air-soil interface, gathering
+data in each of them; the B-scan is the comprehensive set of GPR
+traces).
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------bscan2D-----This Matlab procedure uses data generated by 'GprMax2D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display a B-scan.
+A B-scan is a set of A-scans, obtained by moving the transmitter and receiver
+of the GPR on a line (e.g. x-axis), thus creating a 2D dataset,
+the amplitude of the received signal is usually plotted in a grey-scale map
+or in contour plots. The output of this procedure is a grey-scale map.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+
+clear all;
+% name = 'filename.out', where filename is the name of file generated by 'GprMax2D'
+name = 'filename.out';
+[Header, Fields] = GprMax( name ) % extracts the values of the field component Ez
+E(:,:) = Fields.ez(:,1,:);
+tw=Fields.t*10^9;
+% extracts the vector of time instants, in ns
+% a vector relative to the receiver-position is now created
+for j=1:Header.NSteps
+rxposition(j)=Header.rx*Header.dx+Header.RxStepX*(j-1)*Header.dx;
+end
+figure;
+imagesc(rxposition,tw,E);
+colormap gray;
+title('B-scan','fontsize',20);
+colorbar ('location', 'eastoutside');
+ylabel('Time [ns]','fontsize',18);
+xlabel('Receiver-position [m]','fontsize',18);
+
+12"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2.2.5: bscan3D.m
+This procedure can be used to plot a B-scan, generated by
+GprMax3D.
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------bscan3D-----This Matlab procedure uses data generated by 'GprMax3D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display a B-scan.
+A B-scan is a set of A-scans, obtained by moving the transmitter and receiver
+of the GPR on a line (e.g. x-axis), thus creating a 2D dataset;
+the amplitude of the received signal is usually plotted in a grey-scale map.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski
+
+clear all;
+name = 'filename.out'; % filename is the name of file generated by 'GprMax3D'
+[Header, Fields] = GprMax( name )
+%extract the values of all three components of the field E
+Ex = Fields.ex(:,:); Ey = Fields.ey(:,:); Ez = Fields.ez(:,:);E = Ex+Ey+Ez;
+tw=Fields.t*10^9; %extract the vector of time instants, in ns
+%create vectors relative to the size of the model's domain
+for j=1:Header.NSteps
+X(j)=Header.rx*Header.dx+Header.RxStepX*(j-1)*Header.dx;
+Y(j)=Header.ry*Header.dy+Header.RxStepY*(j-1)*Header.dy;
+Z(j)=Header.rz*Header.dz+Header.RxStepZ*(j-1)*Header.dz;
+end
+figure;
+imagesc(Y,tw,Ex);
+colormap gray
+title('B-scan','fontsize',20); colorbar
+ylabel('Time [ns]','fontsize',18);
+xlabel('Receiver-position [m]','fontsize',18);
+
+2.2.6: bscan2Dback.m
+This procedure can be used to plot a B-scan of the back-scattered
+field, generated by GprMax2D.
+% ------bscan2Dback-----%
+% This Matlab procedure uses data generated by 'GprMax2D',
+
+13"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+"
+
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display a B-scan of the Back-Scattered Field.
+A B-scan of the Back-Scattered Field is obtained by subtracting
+the undisturbed B-scan (i.e. without scatterers) from the one with scatterers.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+
+clear all;
+name1 = '.out'; %undisturbed B-scan
+name2 = '.out'; %B-scan with scatterers
+[Header, Fields] = GprMax( name1 )
+E1(:,:) = Fields.ez(:,1,:);
+[Header, Fields] = GprMax( name2 );
+E2(:,:) = Fields.ez(:,1,:);
+E = E2-E1; % subtracts the undisturbed B-scan from the one with scatterers
+% creates a vector with the receiver-positions
+for j=1:Header.NSteps
+rxposition(j)=Header.rx*Header.dx+Header.RxStepX*(j-1)*Header.dx;
+end
+tw=Fields.t*10^9;
+% extracts the vector of time instants, in ns
+figure;
+imagesc(rxposition,tw,E);
+colormap gray
+title('B-scan of the Back-Scattered Field','fontsize',20);
+colorbar ('location', 'eastoutside');
+ylabel('Time [ns]','fontsize',18);
+xlabel('Receiver-position [m]','fontsize',18);
+
+2.2.7: geo2D.m
+This procedure can be used to display the geometry of the model,
+generated by GprMax2D.
+%------geo2D-----%
+% This Matlab procedure uses data generated by 'GprMax2D',
+% electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+% in order to display the geometry of the model.
+%
+% European Cooperation in Science and Technology (COST)
+% COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+% 2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+clear all;
+% name = 'filename.geo', where filename is the name of file generated by 'GprMax2D'
+
+14"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+name = 'filename.geo';
+[mesh,header,media] = GprMax2g(name)
+% extracts the model's geometry data through the function GprMax2g
+C(:,:) = mesh(:,:);
+% create vectors relative to the size of the model's domain
+X=(0:header.nx) * header.dx;
+Y=(0:header.ny) * header.dy;
+figure; imagesc(X,Y,C);
+xlabel('[m]','fontsize',18);
+ylabel('[m]','fontsize',18);
+% By default, imagesc plots the y-axis from lowest to highest value, top to bottom.
+% To reverse this, type set(gca,'YDir','normal').
+% This will reverse both the y-axis and the image.
+set(gca,'YDir','normal');
+axis image;
+N = media.num
+% specify here the number of different media defined in the model
+colours=gray(N);
+% colormap(colours)
+colormap(flipud(colours));
+% flips/inverts the colours of the colormap
+hold on;
+% the legend is now defined
+L = line(ones(N),ones(N), 'LineWidth',14);
+set(L,{'color'},mat2cell(colours,ones(1,N),3));
+h=legend('Sand','Free space','Compacted fill', 'PVC');
+set(h,'color',[0.89,0.94,0.9],'FontWeight','bold','FontSize',14,...
+'FontName','Gautami','Location','NorthEastOutside');
+
+2.2.8: geo3D.m
+This procedure can be used to display the geometry of the model,
+generated by GprMax3D. In particular, isosurfaces can be plotted,
+representing the various parts/objects of the model’s geometry.
+For large models with several details, this procedure doesn’t
+provide a clear representation of the scenario.
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------geo3D-----This Matlab procedure uses data generated by 'GprMax3D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display the geometry of the model.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+
+15"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+clear all;
+% name = 'filename.geo', where filename is the name of file generated by 'GprMax3D'
+name = 'filename.geo';
+[mesh,ID,header,media] = GprMax3g(name);
+% extracts the model's geometry data from the function GprMax3g
+C(:,:,:) = mesh(:,:,:);
+% creates vectors relative to the size of the model's domain
+x=(0:header.nx) * header.dx;
+y=(0:header.ny) * header.dy;
+z=(0:header.nz) * header.dz;
+% gets the size of the vectors
+X=max(size(x));
+Y=max(size(y));
+Z=max(size(z));
+figure;
+% isosurface(C,isovalue) computes isosurface data from the volume data C
+% at the isosurface value specified in isovalue, i.e., isosurface connects points
+% that have the specified value much the way contour lines connect points
+% of equal elevation. By changing the isovalue it is possible to view just
+% some parts/objects of the model's geometry.
+p=patch(isosurface(C,2));
+set(p,'facecolor','b','edgecolor',[0.68,0.92,1]);
+zlabel('z','fontsize',18);
+ylabel('x','fontsize',18);
+xlabel('y','fontsize',18);
+grid on;
+axis([0 Y 0 X 0 Z]);
+% By definition: "isosurface(V,isovalue) assumes
+% the arrays X, Y, and Z are defined as [X,Y,Z] = meshgrid(1:n,1:m,1:p)
+% where [m,n,p] = size(V).". Hence, flip/invert X and Y in axis.
+
+2.2.9: geo3Dslice.m
+This procedure can be used to display three sections (in the xy, xz
+and yz planes) of the model’s geometry, generated by GprMax3D.
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------geo3Dslice-----This Matlab procedure uses data generated by 'GprMax3D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display three slices (xy-,xz- and yz-plane) of the model's geometry.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+
+clear all;
+% name = 'filename.geo', where filename is the name of file generated by 'GprMax3D'
+
+16"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+name = 'filename.geo';
+[mesh,ID,header,media] = GprMax3g(name);
+% you have to specify here the coordinates at which you want to produce
+% a slice of the model's geometry
+x = 0.3; % yz-plane at the given x-coordinate [m]
+y = 0.2; % xz-plane at the given y-coordinate [m]
+z = 0.42; % xy-plane at the given z-coordinate [m]
+% converts coordinates from [m] into the corresponding number of Yee cells
+cx=round(x/header.dx);
+cy=round(y/header.dy);
+cz=round(z/header.dz);
+% creates vectors relative to the size of the model's domain
+X=(0:header.nx) * header.dx;
+Y=(0:header.ny) * header.dy;
+Z=(0:header.nz) * header.dz;
+% extracts the model's geometry data from the function GprMax3g
+meshxz(:,:) = mesh(:,cy,:);
+meshyz(:,:) = mesh(cx,:,:);
+meshxy(:,:)= mesh(:,:,cz);
+% transposes the matrices
+planexz= meshxz'; planeyz= meshyz'; planexy= meshxy';
+figure; imagesc(X,Z,planexz);
+colormap gray
+set(gca,'YDir','normal');
+colormap (flipud(gray));
+axis image;
+title(['xz-plane at y=' num2str(y) 'm'], 'fontsize',20)
+xlabel('[m]','fontsize',18)
+ylabel('[m]','fontsize',18)
+figure; imagesc(Y,Z,planeyz);
+colormap gray
+set(gca,'YDir','normal');
+colormap (flipud(gray));
+axis image
+title(['yz-plane at x=' num2str(x) 'm'], 'fontsize',20)
+xlabel('[m]','fontsize',18)
+ylabel('[m]','fontsize',18)
+figure; imagesc(X,Y,planexy);
+set(gca,'YDir','normal');
+colormap gray
+colormap (flipud(gray));
+axis image
+title(['xy-plane at z=' num2str(z) 'm'], 'fontsize',20)
+xlabel('[m]','fontsize',18)
+ylabel('[m]','fontsize',18)
+
+17"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2.2.10: snapshot2D.m
+This procedure can be used to display a map of the electric field at
+a given time instant. In order to obtain information about the
+electromagnetic field within an area of the model at a given time
+instant, the #snapshot: command has to be introduced in the
+input GprMax file (as explained in the GprMax user guide).
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------snapshot2D-----This Matlab procedure uses data generated by 'GprMax2D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display a snapshot of the electric field at a given time instant.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+
+clear all;
+% name = 'filename.out', where filename is the name of file generated by 'GprMax2D'
+name = 'filename.out';
+[Header, Fields] = GprMax( name )
+samplex= Header.Snapxsam; % sampling intervals in the x direction
+sampley= Header.Snapysam; % sampling intervals in the y direction
+% extracts the values of the field component Ez through the function GprMax
+E(:,:) = Fields.ez(:,:);
+% creates vectors relative to the size of the chosen snapshot area
+for j= 1:samplex
+X(j)= Header.Snapx1*Header.dx+ (j-1)*Header.Snapxs*Header.dx;
+end
+for i= 1:sampley
+Y(i)= Header.Snapy1*Header.dy+ (i-1)*Header.Snapys*Header.dy;
+end
+figure;
+imagesc(X,Y,E);
+axis xy;
+set(gca,'YDir','normal');
+title('Snapshot','fontsize',20);
+ylabel('[m]','fontsize',18);
+xlabel('[m]','fontsize',18);
+daspect([1 1 1]);
+% sets the data aspect ratio in the current axes to the specified value
+% colorbar ('location', 'southoutside');
+% grid on;
+
+18"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2.2.11: snapshot3D.m
+This procedure can be used to display maps of a component of the
+electromagnetic field at a given time instant, on a xy, xz and yz
+plane. In order to obtain information about the electromagnetic
+field within a volume of the model at a given time instant, the
+#snapshot: command has to be introduced in the input GprMax
+file (as explained in the GprMax user guide). Such command
+produces a volume of data for each electromagnetic field
+component.
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------snapshot3D-----This Matlab procedure uses data generated by 'GprMax3D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to display a snapshot of the electric field (on a xy-,xz- and yz-plane)
+at a given time instant.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu, Chair: Lara Pajewski, Italy
+
+clear all;
+% name = 'filename.out', where filename is the name of file generated by 'GprMax3D'
+name = 'filename.out';
+[Header, Fields] = GprMax( name )
+% specify here the coordinates at which you want to produce a snapshot
+x = 0.6; % yz-plane at the given x-coordinate [m]
+y = 0.6; % xz-plane at the given y-coordinate [m]
+z = 0.6; % xy-plane at the given z-coordinate [m]
+% converts coordinates from [m] into the corresponding number of Yee cells
+cx=round(x/Header.dx);
+cy=round(y/Header.dy);
+cz=round(z/Header.dz);
+samplex= Header.Snapxsam;%sampling intervals in the x direction
+sampley= Header.Snapysam;%sampling intervals in the y direction
+samplez= Header.Snapzsam;%sampling intervals in the z direction
+%extracts the values of the field components from the function GprMax
+planexy(:,:) = Fields.ex(:,:,cz);
+planexz(:,:) = Fields.ex(:,cy,:);
+planeyz(:,:) = Fields.ex(cx,:,:);
+% transposes the matrices
+planexy = planexy';
+planexz = planexz';
+planeyz = planeyz';
+% creates vectors relative to the size of the chosen snapshot area
+
+19"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+for j= 1:samplex
+X(j)= Header.Snapx1*Header.dx+ (j-1)*Header.Snapxs*Header.dx;
+end
+for i= 1:sampley
+Y(i)= Header.Snapy1*Header.dy+ (i-1)*Header.Snapys*Header.dy;
+end
+for k= 1:samplez
+Z(k)= Header.Snapz1*Header.dz+ (k-1)*Header.Snapzs*Header.dz;
+end
+figure;
+imagesc(X,Y,planexy); axis xy; set(gca,'YDir','normal');
+title('Snapshot (xy-plane)','fontsize',20);
+ylabel('[m]','fontsize',18); xlabel('[m]','fontsize',18);
+daspect([1 1 1]);
+%colorbar ('location', 'southoutside');
+%grid on;
+figure; imagesc(X,Z,planexz); axis xy; set(gca,'YDir','normal');
+title('Snapshot (xz-plane)','fontsize',20); ylabel('[m]','fontsize',18); xlabel('[m]','fontsize',18);
+daspect([1 1 1]);
+figure; imagesc(Y,Z,planeyz); axis xy; set(gca,'YDir','normal');
+title('Snapshot (yz-plane)','fontsize',20); ylabel('[m]','fontsize',18); xlabel('[m]','fontsize',18);
+daspect([1 1 1]);
+
+2.2.12: video2D.m
+This procedure can be used to create a movie of the electric field,
+showing how the map of the electric field in a certain region of the
+model changes with time. In order to obtain information about the
+electromagnetic field within an area of the model in N different
+time instants, the #snapshot: command has to be introduced N
+times in the input GprMax file.
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+------video2D-----This Matlab procedure uses data generated by 'GprMax2D',
+electromagnetic wave simulator for Ground Penetrating Radar (GPR) modelling,
+in order to create a video of the electromagnetic field.
+European Cooperation in Science and Technology (COST)
+COST Action TU1208 "Civil Engineering Applications of Ground Penetrating Radar"
+2013 - 2017, www.GPRadar.eu
+
+clear all;
+% assign a name to your video - 'videoname.avi'
+vidObj = VideoWriter('videoname.avi');
+vidObj.FrameRate=5; % rate of playback for the video in frames per second
+open(vidObj); snapshotdirectory = 'C:\Users\Lara\GprMax matlab\snapshot';
+snapshotfiles = fullfile(snapshotdirectory, '*.out'); files = dir(snapshotfiles);
+for k=1:length(files)
+
+20"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+name=(['snap' num2str(k) '.out']);
+[Header, Fields] = GprMax(name);
+samplex= Header.Snapxsam; % sampling intervals in the x direction
+sampley= Header.Snapysam; % sampling intervals in the y direction
+E(:,:) = Fields.ez(:,:);
+% creates vectors relative to the size of the chosen snapshot area
+for j= 1:samplex
+X(j)= Header.Snapx1*Header.dx+ (j-1)*Header.Snapxs*Header.dx;
+end
+for i= 1:sampley
+Y(i)= Header.Snapy1*Header.dy+ (i-1)*Header.Snapys*Header.dy;
+end
+imagesc(X,Y,E); axis xy; set(gca,'YDir','normal'); colormap jet;
+daspect([1 1 1]); % sets the data aspect ratio in the current axes to the specified value
+F(k) = getframe;
+end
+writeVideo(vidObj,F); close(vidObj);
+
+2.3: DEFINITION OF TEST SCENARIOS FOR THE COMPARISON OF
+DIFFERENT ELECTROMAGNETIC FORWARD- AND
+INVERSE-SCATTERING METHODS
+The third part of the STSM was devoted to the definition of a set of
+test scenarios. Working Group Members who are developing
+electromagnetic forward/inverse scattering techniques and
+imaging methods will be provided with the geometrical and
+physical characteristics defining these scenarios, as well as with
+results calculated by using the GprMax software; the accuracy and
+applicability of different techniques will be tested and compared on
+the proposed scenarios. The aim of this initiative is not that of
+identifying the best methods, but more properly to indicate the
+range of reliability of each approach, highlighting its advantages
+and drawbacks. The realisation of the proposed structures and the
+acquisition of GPR experimental data will allow a further effective
+benchmark for forward/inverse scattering methods and imaging
+techniques.
+The set of test scenarios is constituted by a number of
+concrete
+structures,
+hereinafter
+called
+cells.
+Structural
+investigation of reinforced concrete through GPR is wellestablished and increasingly used [6], the principal current
+applications are summarized in Table I.
+
+21"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Table I : Some applications of GPR for structural concrete
+Greatest reliability
+
+Least reliability
+
+Estimation of element thickness from one surface
+Location of reinforcing bars and metallic ducts; estimation of depth
+Determination of major construction features
+Increasingly
+Location of moisture variations
+experimental
+Location of voids
+Estimation of major voids size
+Location of honeycombing/cracking/chlorides
+Estimation of bar size
+Estimation of chloride concentrations
+Location of reinforcement corrosion
+
+The size of each cell is 60 x 100 x 18 cm and the content
+varies with growing complexity, from a simple cell with few rebars
+of different diameters embedded in concrete at increasing depths,
+to a final cell with a quite complicated pattern, including a layer of
+tendons between two overlying meshes of rebars. Other cells, of
+intermediate complexity, contain pvc ducts (air filled or hosting
+rebars), steel objects commonly used in civil engineering (as a
+pipe, an angle bar, a box section and an u-channel), as well as
+void and honeycombing defects. One of the cells has a steel mesh
+embedded in it, overlying two rebars placed diagonally across the
+comers of the structure. Two cells include a couple of rebars bent
+into a right angle and placed on top of each other, with a
+square/round circle lying at the base of the concrete slab.
+Inspiration for some of these cells is taken from the very
+interesting experimental work presented in [7].
+For each cell, a subset of models is defined, starting from a
+simple representation of the cell and ending with a more realistic
+one. In particular, the model’s complexity increases from the
+geometrical point of view, as well as in terms of how the
+constitutive parameters of the involved media and the GPR
+antennas are described.
+
+22"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Some cells can be simulated in both two and three
+dimensions. The concrete slab can be approximated as a finitethickness layer having infinite extension on the transverse plane,
+thus neglecting how edges affect radargrams, or else its finite size
+can be fully taken into account.
+The permittivity of concrete can be defined through a
+constant real value, or else its frequency-dispersion properties can
+be taken into account by incorporating into the model Debye
+approximations [8] or by adopting the Joenscher model [9, 10].
+The electromagnetic source can be represented as a simple
+line of current (in the case of two-dimensional models), a Hertzian
+dipole, a bow tie antenna, or else, the realistic description of a
+commercial antenna can be included in the model [11].
+The simplest three cells are sketched in Figure 1. They can
+be simulated both in two and three dimensions. Cell 1.1 includes
+three identical pipes buried at increasing depths, as well as
+smaller and larger bars. Cell 1.2 consists of four linear targets as
+follows: a rebar, two PVC ducts (one air filled and the other with a
+steel rod inserted), a steel water pipe. Cell 1.3 hosts typical
+reinforced concrete elements as an angle bar, a box section and a
+u-channel. For these cells, input GprMax2D and GprMax3D files
+are reported in Section 2.4 of this document, along with some
+numerical results obtained with GprMax2D, for the simplest case
+of concrete permittivity defined through a constant real value.
+Further results obtained by adopting a Debye model for the
+permittivity of concrete are also available but they are not included
+here, for brevity reasons. Results obtained by executing the 3D
+models are available, too.
+2.4: MODELLING THE DEFINED TEST SCENARIOS WITH GPRMAX
+2.4.1: Cell 1.1
+For Cell 1.1, both 2D and a 3D models have been created.
+The concrete slab has been approximated as a finite-thickness
+layer having infinite extension on the transverse plane, thus
+neglecting how edges affect radargrams, or else its finite size has
+
+23"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+been fully taken into account. The compacted fill has always been
+modelled as having infinite extension.
+
+Figure 1 – Sketch of Cells 1.1 – 1.3.
+All the numerical results have been obtained for a frequency
+f = 1.5 GHz and a Ricker shape of the time pulse emitted by the
+transmitter.
+The transmitting and receiving antennas are at 2 cm from
+concrete-air interface, the distance between them is 10 cm.
+B-scans with 5 cm step have been calculated, in the
+transverse plane, as well as A-scans above the center of each
+scatterer, for both the total and the back-scattered electric field,
+on a 5 ns time window.
+24"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+The relative permittivity of concrete is assumed to be εr=6
+and its conductivity is σ=0.01 S/m; the relative permittivity of the
+compacted fill is εr=16 and its conductivity is σ=0.005 S/m.
+Metallic objects are assumed to be perfectly conducting.
+For the finite-size model, GprMax2D and GprMax3D input
+files are reported in Table II. The spatial discretisation (size of Yee
+cells) is 0.0005 m along x, y and z, representing a good
+compromise between accuracy and execution time. The time
+discretisation is fixed by applying the stability CFL (Courant,
+Freidrichs and Lewy) condition. The simulation space is
+surrounded with a layer of non physical absorbing material
+occupying 10 Yee cells (i.e., Perfectly Matched Layer, PML,
+Absorbing Boundary Conditions, ABCs, are employed).
+For this model, Figure 2 shows the B-scan of the total
+electric field and Figure 3 shows the B-scan of the electric field
+back-scattered by the embedded bars, obtained with GprMax2D.
+Figure 4 shows the 2D output geometry.
+For the infinite model of Cell 1.1, GprMax2D and GprMax3D
+input files are reported in Table III. The spatial and time
+discretisation are the same and a PML occupying 10 Yee cells is
+again used.
+For this model, Figure 5 shows the B-scan of the total
+electric field and Figure 6 shows the B-scan of the electric field
+back-scattered by the embedded bars, obtained with GprMax2D,
+to be compared with those shown in Figures 2 and 3, respectively.
+Figure 7 shows the 2D output geometry.
+The A-scans calculated above the axes of all the rods embedded in
+the concrete slab, are reported in Figures 8-15. In particular,
+Figure 8 compares A-scans of the total electric field above rebars
+having the same diameter (Ø 2 cm) and buried at different depths
+(calculated by taking into account the finite size of concrete slab).
+Figure 9 shows the same as in Figure 8, for the back-scattered
+electric field. In Figure 10, results obtained for the finite-size
+concrete slab are compared with those obtained for the infinite
+slab. Figures 12-15 present A-scans over the three rebars having
+different size (Ø 1, 2 and 3 cm) and buried at the same depth (d=9
+cm).
+25"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Table II
+Input GprMax2D and GprMax3D files for Cell 1.1,
+taking into account the finite size of the concrete slab.
+
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0
+compacted_fill
+---------------------------------------------------------#domain: 0.66 0.28
+#dx_dy: 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+---------------------------------------------------------#box: 0.0 0.0 0.66 0.05 compacted_fill
+#box: 0.03 0.05 0.63 0.23 concrete
+---------------------------------------------------------#cylinder: 0.18 0.17 0.01 pec
+#cylinder: 0.28 0.14 0.01 pec
+#cylinder: 0.38 0.11 0.01 pec
+#cylinder: 0.48 0.14 0.005 pec
+#cylinder: 0.58 0.14 0.015 pec
+---------------------------------------------------------#line_source: 1.0 1500e6 ricker MyLineSource
+---------------------------------------------------------#analysis: 100 cell1.1_2D.out b
+#tx: 0.03 0.25 MyLineSource 0.0 5e-9
+#rx: 0.13 0.25
+#tx_steps: 0.005 0.0
+#rx_steps: 0.005 0.0
+#end_analysis:
+---------------------------------------------------------#geometry_file: cell1.1_2D.geo
+#title: Cell 1.1_2D
+#messages: y
+
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0
+compacted_fill
+-------------------------------------------------------#domain: 1.06 0.66 0.28
+#dx_dy_dz: 0.0005 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+-------------------------------------------------------#box: 0.0 0.0 0.0 1.06 0.66 0.05
+compacted_fill
+#box: 0.03 0.03 0.05 1.03 0.63 0.23 concrete
+-------------------------------------------------------#cylinder: x 0.03 1.03 0.18 0.17 0.01 pec
+#cylinder: x 0.03 1.03 0.28 0.14 0.01 pec
+#cylinder: x 0.03 1.03 0.38 0.11 0.01 pec
+#cylinder: x 0.03 1.03 0.48 0.14 0.005 pec
+#cylinder: x 0.03 1.03 0.58 0.14 0.015 pec
+-------------------------------------------------------#hertzian_dipole: 1.0 1500e6 ricker MyDipole
+-------------------------------------------------------#analysis: 100 cell1.1_3D.out b
+#tx: x 0.5 0.03 0.25 MyDipole 0.0 5e-9
+#rx: 0.5 0.13 0.25
+#tx_steps: 0.0 0.005 0.0
+#rx_steps: 0.0 0.005 0.0
+#end_analysis:
+-------------------------------------------------------#geometry_file: cell1.1_3D.geo
+#title: Cell 1.1_3D
+#messages: y
+
+GprMax 2D - Cell 1.1 (finite size)
+
+GprMax 3D - Cell 1.1 (finite size)
+
+26"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 2 – B-scan of the total electric field obtained with
+GprMax2D for Cell 1.1 (finite-size concrete slab).
+
+Figure 3 – B-scan of the back-scattered field obtained with
+GprMax2D for Cell 1.1 (finite-size concrete slab).
+
+27"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 4 – Output geometry of Cell 1.1 (finite-size concrete slab).
+
+Table III - Input GprMax2D and GprMax3D files for Cell 1.1,
+assuming an infinite extension of the concrete slab.
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0 c_fill
+#domain: 0.66 0.28
+#dx_dy: 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+-------------------------------------------------------#box: 0.0 0.0 0.66 0.05 c_fill
+#box: 0.0 0.05 0.66 0.23 concrete
+#cylinder: 0.18 0.17 0.01 pec
+#cylinder: 0.28 0.14 0.01 pec
+#cylinder: 0.38 0.11 0.01 pec
+#cylinder: 0.48 0.14 0.005 pec
+#cylinder: 0.58 0.14 0.015 pec
+-------------------------------------------------------#line_source: 1.0 1500e6 ricker LineSource
+#analysis: 100 cell1.1_2D_concrete.out b
+#tx: 0.03 0.25 LineSource 0.0 5e-9
+#rx: 0.13 0.25
+#tx_steps: 0.005 0.0
+#rx_steps: 0.005 0.0
+#end_analysis:
+-------------------------------------------------------#geometry_file: cell1.1_2D_concrete.geo
+#title: Cell 1.1_2D
+#messages: y
+
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0 c_fill
+#domain: 1.06 0.66 0.28
+#dx_dy_dz: 0.0005 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+-------------------------------------------------------#box: 0.0 0.0 0.0 1.06 0.66 0.05 c_fill
+#box: 0.0 0.0 0.05 1.06 0.66 0.23 concrete
+#cylinder: x 0.0 1.06 0.18 0.17 0.01 pec
+#cylinder: x 0.0 1.06 0.28 0.14 0.01 pec
+#cylinder: x 0.0 1.06 0.38 0.11 0.01 pec
+#cylinder: x 0.0 1.06 0.48 0.14 0.005 pec
+#cylinder: x 0.0 1.06 0.58 0.14 0.015 pec
+-------------------------------------------------------#hertzian_dipole: 1.0 1500e6 ricker Dipole
+#analysis: 100 cell1.1_3D_concrete.out b
+#tx: x 0.5 0.03 0.25 Dipole 0.0 5e-9
+#rx: 0.5 0.13 0.25
+#tx_steps: 0.0 0.005 0.0
+#rx_steps: 0.0 0.005 0.0
+#end_analysis:
+-------------------------------------------------------#geometry_file: cell1.1_3D_concrete.geo
+#title: Cell 1.1_3D
+#messages: y
+
+GprMax 2D - Cell 1.1 (infinite cell)
+
+GprMax 3D - Cell 1.1 (infinite cell)
+
+28"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 5 – B-scan of the total electric field obtained with
+GprMax2D for Cell 1.1 (infinite concrete slab).
+
+Figure 6 – B-scan of the back-scattered field obtained with
+GprMax2D for Cell 1.1 (infinite concrete slab).
+
+29"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 7 – Output gometry of Cell 1.1 (infinite concrete slab).
+
+Figure 8 – A-scan of the total electric field, calculated above bars
+having the same diameter (Ø 2cm) and buried at different depths
+(finite-size concrete slab).
+
+30"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 9 – Same as in Figure 8, for the backscattered field.
+
+Figure 10 – A-scans of the total electric field, calculated above
+bars having the same diameter (Ø 2cm) and buried at different
+depths: comparison between finite and infinite models.
+
+31"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 11 – Same as in Figure 10, for the backscattered field.
+
+Figure 12 – A-scans above bars with different size and same
+burial depth (total electric field; finite-size concrete slab).
+
+32"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 13 – Same as in Figure 12, for the backscattered field.
+
+Figure 14 – A-scans on bars with different size and same depth:
+comparison between finite and infinite slab (total electric field).
+
+33"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 15 – Same as in 14, for the backscattered field.
+2.4.2: Cell 1.2
+For Cell 1.2, an analogous analysis has been carried out. Both 2D
+and 3D models have been created. The concrete slab has been
+approximated as a finite-thickness layer having infinite extension
+on the transverse plane, or else its finite size has been taken into
+account. The relative permittivity of PVC was assumed to be εr=3.
+For the finite-size model, GprMax input files are reported In Table
+IV. Results are shown in Figure 16, where the B-scan of the total
+electric field is reported, and in Figure 17, where the B-scan of the
+electric field back-scattered by the embedded targets is shown,
+obtained with GprMax2D. Figure 18 is the 2D output geometry.
+For the model with infinite concrete slab, GprMax input files are
+reported In Table V. Results are shown in Figure 19, where the Bscan of the total electric field is reported, and in Figure 20, where
+the B-scan of the electric field back-scattered by the embedded
+targets is shown, obtained with GprMax2D.
+
+34"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Table IV
+Input GprMax2D and GprMax3D files for Cell 1.2, taking into
+account the finite size of the concrete slab.
+
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0 c_fill
+#medium: 3.0 0.0 0.0 0.0 1.0 0.0 pvc
+---------------------------------------------------#domain: 0.66 0.28
+#dx_dy: 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+---------------------------------------------------#box: 0.0 0.0 0.66 0.05 c_fill
+#box: 0.03 0.05 0.63 0.23 concrete
+---------------------------------------------------#cylinder: 0.18 0.14 0.015 pec
+#cylinder: 0.3 0.14 0.015 pvc
+#cylinder: 0.3 0.14 0.013 free_space
+#cylinder: 0.42 0.14 0.015 pvc
+#cylinder: 0.42 0.14 0.013 free_space
+#cylinder: 0.42 0.1345 0.0075 pec
+#cylinder: 0.54 0.14 0.035 pec
+#cylinder: 0.54 0.14 0.033 free_space
+----------------------------------------------------#line_source: 1.0 1500e6 ricker LineSource
+----------------------------------------------------#analysis: 100 cell1.2_2D.out b
+#tx: 0.03 0.25 LineSource 0.0 5e-9
+#rx: 0.13 0.25
+#tx_steps: 0.005 0.0
+#rx_steps: 0.005 0.0
+#end_analysis:
+----------------------------------------------------#geometry_file: cell1.2_2D.geo
+#title: Cell 1.1_2D
+#messages: y
+
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0 c_fill
+#medium: 3.0 0.0 0.0 0.0 1.0 0.0 pvc
+-------------------------------------------------#domain: 1.06 0.66 0.28
+#dx_dy_dz: 0.0005 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+-------------------------------------------------#box: 0.0 0.0 0.0 1.06 0.66 0.05 c_fill
+#box: 0.03 0.03 0.05 1.03 0.63 0.23 concrete
+-------------------------------------------------#cylinder: x 0.03 1.03 0.18 0.14 0.015 pec
+#cylinder: x 0.03 1.03 0.3 0.14 0.015 pvc
+#cylinder: x 0.03 1.03 0.3 0.14 0.013 free_space
+#cylinder: x 0.03 1.03 0.42 0.14 0.015 pvc
+#cylinder: x 0.03 1.03 0.42 0.14 0.013 free_space
+#cylinder: x 0.03 1.03 0.42 0.1345 0.0075 pec
+#cylinder: x 0.03 1.03 0.54 0.14 0.035 pec
+#cylinder: x 0.03 1.03 0.54 0.14 0.033 free_space
+----------------------------------------------------------#hertzian_dipole: 1.0 1500e6 ricker Dipole
+----------------------------------------------------------#analysis: 100 cell1.2_3D.out b
+#tx: x 0.5 0.03 0.25 Dipole 0.0 5e-9
+#rx: 0.5 0.13 0.25
+#tx_steps: 0.0 0.005 0.0
+#rx_steps: 0.0 0.005 0.0
+#end_analysis:
+----------------------------------------------------------#geometry_file: cell1.2_3D.geo
+#title: Cell 1.2_3D
+#messages: y
+
+GprMax 2D - Cell 1.2 (finite)
+
+GprMax 3D - Cell 1.2 (infinite)
+
+35"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 16 – B-scan of the total electric field obtained with
+GprMax2D for Cell 1.2 (finite-size concrete slab).
+
+Figure 17 – B-scan of the back-scattered electric field obtained
+with GprMax2D for Cell 1.2 (finite-size concrete slab).
+
+36"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 18 – Output geometry of Cell 1.2 (finite-size concrete slab).
+Table V - Input GprMax2D and GprMax3D files for Cell 1.2,
+assuming an infinite extension of the concrete slab.
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0 c_fill
+#medium: 3.0 0.0 0.0 0.0 1.0 0.0 pvc
+------------------------------------------------------#domain: 0.66 0.28
+#dx_dy: 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+------------------------------------------------------#box: 0.0 0.0 0.66 0.05 c_fill
+#box: 0.0 0.05 0.66 0.23 concrete
+#cylinder: 0.18 0.14 0.015 pec
+#cylinder: 0.3 0.14 0.015 pvc
+#cylinder: 0.3 0.14 0.013 free_space
+#cylinder: 0.42 0.14 0.015 pvc
+#cylinder: 0.42 0.14 0.013 free_space
+#cylinder: 0.42 0.1345 0.0075 pec
+#cylinder: 0.54 0.14 0.035 pec
+#cylinder: 0.54 0.14 0.033 free_space
+------------------------------------------------------#line_source: 1.0 1500e6 ricker LineSource
+#analysis: 100 cell1.2_2D_concrete.out b
+#tx: 0.03 0.25 LineSource 0.0 5e-9
+#rx: 0.13 0.25
+#tx_steps: 0.005 0.0
+#rx_steps: 0.005 0.0
+#end_analysis:
+#geometry_file: cell1.2_2D_concrete.geo
+#title: Cell 1.1_2D
+#messages: y
+
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0 c_fill
+#medium: 3.0 0.0 0.0 0.0 1.0 0.0 pvc
+-----------------------------------------------------------#domain: 1.06 0.66 0.28
+#dx_dy_dz: 0.0005 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+-----------------------------------------------------------#box: 0.0 0.0 0.0 1.06 0.66 0.05 c_fill
+#box: 0.0 0.0 0.05 1.06 0.66 0.23 concrete
+#cylinder: x 0.03 1.03 0.18 0.14 0.015 pec
+#cylinder: x 0.03 1.03 0.3 0.14 0.015 pvc
+#cylinder: x 0.03 1.03 0.3 0.14 0.013 free_space
+#cylinder: x 0.03 1.03 0.42 0.14 0.015 pvc
+#cylinder: x 0.03 1.03 0.42 0.14 0.013 free_space
+#cylinder: x 0.03 1.03 0.42 0.1345 0.0075 pec
+#cylinder: x 0.03 1.03 0.54 0.14 0.035 pec
+#cylinder: x 0.03 1.03 0.54 0.14 0.033 free_space
+-----------------------------------------------------------#hertzian_dipole: 1.0 1500e6 ricker Dipole
+#analysis: 100 cell1.2_3D_concrete.out b
+#tx: x 0.5 0.03 0.25 Dipole 0.0 5e-9
+#rx: 0.5 0.13 0.25
+#tx_steps: 0.0 0.005 0.0
+#rx_steps: 0.0 0.005 0.0
+#end_analysis:
+#geometry_file: cell1.2_3D_concrete.geo
+#title: Cell 1.2_3D
+#messages: y
+
+GprMax 2D - Cell 1.2 (infinite slab)
+
+GprMax 3D - Cell 1.2 (infinite slab)
+
+37"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 19 – B-scan of the total electric field obtained with
+GprMax2D for Cell 1.2 (infinite concrete slab).
+
+Figure 20 – B-scan of the back-scattered electric field obtained
+with GprMax2D for Cell 1.2 (infinite concrete slab).
+
+38"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2.4.3: Cell 1.3
+For Cell 1.3, the same analysis has been carried out.
+For the finite-size model, GprMax input files are reported In Table
+VI. Results obtained with GprMax2D are shown in Figures 21 and
+22, where B-scans of the total and backscattered electric field are
+reported, respectively; Figure 23 shows the 2D output geometry.
+Results for the model assuming an infinite extension of the
+concrete slab are shown in Figures 24 and 25, where B-scans of
+the total and backscattered electric field are reported, respectively.
+Table VI – Input GprMax2D and GprMax3D files for Cell 1.3,
+taking into account the finite size of the concrete slab.
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0 c_fill
+#domain: 0.66 0.28
+#dx_dy: 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+---------------------------------------------------------#box: 0.0 0.0 0.66 0.05 c_fill
+#box: 0.03 0.05 0.63 0.23 concrete
+#box: 0.17 0.12 0.21 0.125 pec
+#box: 0.205 0.12 0.21 0.16 pec
+#box: 0.31 0.12 0.35 0.125 pec
+#box: 0.345 0.12 0.35 0.16 pec
+#box: 0.31 0.12 0.315 0.16 pec
+#box: 0.31 0.155 0.35 0.16 pec
+#box: 0.45 0.12 0.49 0.125 pec
+#box: 0.485 0.12 0.49 0.16 pec
+#box: 0.45 0.12 0.455 0.16 pec
+---------------------------------------------------------#line_source: 1.0 1500e6 ricker MyLineSource
+#analysis: 100 cell1.3_2D.out b
+#tx: 0.03 0.25 MyLineSource 0.0 5e-9
+#rx: 0.13 0.25
+#tx_steps: 0.005 0.0
+#rx_steps: 0.005 0.0
+#end_analysis:
+#geometry_file: cell1.3_2D.geo
+#title: Cell 1.1_2D
+#messages: y
+
+#medium: 6.0 0.0 0.0 0.01 1.0 0.0 concrete
+#medium: 16.0 0.0 0.0 0.005 1.0 0.0 c_fill
+#domain: 1.06 0.66 0.28
+#dx_dy_dz: 0.0005 0.0005 0.0005
+#time_window: 5e-9
+#abc_type: pml
+#pml_layers: 10
+--------------------------------------------------------#box: 0.0 0.0 0.0 1.06 0.66 0.05 c_fill
+#box: 0.03 0.03 0.05 1.03 0.63 0.23 concrete
+#box: 0.03 0.17 0.12 1.03 0.21 0.125 pec
+#box: 0.03 0.205 0.12 1.03 0.21 0.16 pec
+#box: 0.03 0.31 0.12 1.03 0.35 0.125 pec
+#box: 0.03 0.345 0.12 1.03 0.35 0.16 pec
+#box: 0.03 0.31 0.12 1.03 0.315 0.16 pec
+#box: 0.03 0.31 0.155 1.03 0.35 0.16 pec
+#box: 0.03 0.45 0.12 1.03 0.49 0.125 pec
+#box: 0.03 0.485 0.12 1.03 0.49 0.16 pec
+#box: 0.03 0.45 0.12 1.03 0.455 0.16 pec
+--------------------------------------------------------#hertzian_dipole: 1.0 1500e6 ricker MyDipole
+#analysis: 100 cell1.3_3D.out b
+#tx: x 0.5 0.03 0.25 MyDipole 0.0 5e-9
+#rx: 0.5 0.13 0.25
+#tx_steps: 0.0 0.005 0.0
+#rx_steps: 0.0 0.005 0.0
+#end_analysis:
+#geometry_file: cell1.3_3D.geo
+#title: Cell 1.3_3D
+#messages: y
+
+GprMax 2D - Cell 1.3 (finite)
+
+GprMax 3D - Cell 1.3 (finite)
+
+39"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 21 – B-scan of the total electric field obtained with
+GprMax2D for Cell 1.3 (finite-size concrete slab).
+
+Figure 22 – B-scan of the back-scattered electric field obtained
+with GprMax2D for Cell 1.3 (finite-size concrete slab).
+
+40"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 23–Output geometry of Cell 1.3 (finite-size concrete slab).
+
+Figure 24 – B-scan of the total electric field obtained with
+GprMax2D for Cell 1.2 (infinite concrete slab).
+
+41"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 25 – B-scan of the back-scattered electric field obtained
+with GprMax2D for Cell 1.3 (infinite concrete slab).
+2.5: Interaction with COST Action TU1206
+COST Action TU1206 “SUB-URBAN - A European network to
+improve understanding and use of the ground beneath our cities”
+focuses on the development of urban subsurface knowledge, its
+modeling, as well as the maximization of economic, social and
+environmental benefits of subsurface resources and ecosystem
+services. The possibility of organising a common workshop during
+Year 2 of the Actions’ lifetime was discussed. Electromagnetic
+modelling of subsurface could be a topic of common interest.
+Further topics of common interest can be the application of GPR to
+locate artificial (man-made) and natural sub-superficial deposits,
+and the use of GPR in water management and protection.
+
+42"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+3. FUTURE COLLABORATION WITH THE HOST INSTITUTION
+
+Thanks to this STSM, a fruitful collaboration with the host
+institution has been established and will hopefully continue and
+grow.
+! The simulation of concrete cells will be completed.
+! Iraklis Giannakis (The University of Edinburgh, UK) is
+carrying out a STSM in “Roma Tre” University, on the
+numerical modelling of GPR antennas with the FDTD
+technique. Horn antennas as well as ridged horn antennas
+are being implemented to FDTD and their effectiveness is
+being tested in realistic modelled situations.
+! Accurate models of the commercial antennas GSSI 1.5 GHz
+and MALA 1.2 GHz have been recently incorporated in
+GprMax: a comparison will be carried out, between GprMax
+results obtained for these antennas and results of
+commercial electromagnetic simulators as CST and HFSS,
+available in “Roma Tre” University.
+! A further topic of future collaboration will be implementing
+in GprMax accurate models of soils as well as studying the
+effects of aggregates in the electromagnetic response of
+concrete. Stochastic methods can be used in order to
+realistically simulate the geometrical characteristics of both
+soils and concrete, advanced Debye approximations can be
+incorporated in order to simulate the real dielectric
+properties of the involved media in the frequency range of
+interest. Thanks to the possibility of accessing the cluster
+computer of The University of Edinburgh, it will be possible
+to execute large problems with high resolution (1 mm).
+! Innovative ideas concerning the use of metamaterials in the
+design of GPR antennas and the miniaturisation of GPR
+antennas were discussed during the STSM carried out in
+
+43"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Edinburgh. In order to develop these ideas, a new project is
+starting in Working Group 1, focusing on the design,
+optimisation and modelling of GPR antennas and lead by Dr.
+Craig Warren (The University of Edinburgh, Edinburgh, UK).
+4. FORESEEN PUBLICATIONS/ARTICLES RESULTING FROM THE STSM
+
+The results of this STSM and of the ongoing STSM carried out by
+Iraklis Giannakis in “Roma Tre” University, will be presented
+during the 2014 European Geosciences Union General Assembly
+(2014 EGU GA):
+" Lara Pajewski and Antonis Giannopoulos, “Electromagnetic
+modelling of Ground Penetrating Radar responses to
+complex targets,” Geophysical Research Abstracts, Vol. 16,
+EGU2014-16421, 2014, EGU General Assembly 2014;
+" Iraklis Giannakis, Antonis Giannopoulos, and Lara
+Pajewski, “Numerical Modelling of Ground Penetrating
+Radar Antennas,” Geophysical Research Abstracts, Vol. 16,
+EGU2014-1553, 2014, EGU General Assembly 2014.
+
+5. ACKNOWLEDGEMENTS
+I would like to sincerely thank Antonis Giannopoulos and The
+University of Edinburgh for hosting me for this STSM. I am really
+glad for having the possibility to cooperate with Antonis and his
+research team. I would like to express my gratitude to COST for
+funding the Action TU1208, supporting this STSM.
+5. REFERENCES
+[1]
+A. Giannopoulos, “Modelling ground penetrating radar by
+GprMax,” Constr. Building Materials, vol. 19, pp. 755-762, 2005.
+[2]
+K. S. Kunz and R. J. Luebbers, “The Finite Difference Time
+Domain Method for Electromagnetics,” CRC Press, 1993.
+
+44"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+[3]
+A. Taflove, “Computational Electrodynamics: The FiniteDifference Time-Domain Method,” Artech House, 1995.
+[4]
+K. S. Yee, “Numerical Solution of Initial Boundary Value
+Problems Involving Maxwell’s Equations in Isotropic Media,” IEEE
+Trans. on Antennas and Propagation, vol. 14, pp. 302-307, 1966.
+[5]
+A. Giannopoulos, “The investigation of Transmission-Line
+Matrix and Finite-Difference Time-Domain Methods for the
+Forward Problem of Ground Probing Radar,” D.Phil thesis,
+Department of Electronics, University of York, UK, 1997.
+[6]
+J. H. Bungey,
+“Sub-surface radar testing of concrete: a
+review,” Construction and Building Materials, 18, pp. 1–8.
+[7]
+R. Yelf and A. Ward, “Nine steps to concrete wisdom,” Proc.
+13th International Conference on Ground Penetrating Radar,
+Lecce, Italy, 21-25 June 2010, pp. 1-8.
+[8]
+T. Bourdi, J. E. Rhazi, F. Boone, and G. Ballivy, “Modelling
+dielectric-constant values of concrete: an aid to shielding
+effectiveness prediction and ground-penetrating radar wave
+technique interpretation,” Phys. D: Appl. Phys. 45, Article ID
+405401, 12 pp., 2012.
+[9]
+T. Bourdi, J. E. Rhazi, F. Boone, and G. Ballivy, “Application
+of Jonscher model for the characterization of the dielectric
+permittivity of concrete,” J. Phys. D: Appl. Phys. 41, article ID
+205410, 9 pp., 2008.
+[10] T. Bourdi, F. Boone, J. E. Rhazi, and G. Ballivy, “Use of
+Joenscher model for estimating the thickness of a concrete slab by
+technical GPR,’’ PIER M, Vol. 28, 89–99, 2013.
+[11] C. Warren, A. Giannopoulos, “Creating FDTD models of
+commercial GPR antennas using Taguchi’s optimisation method,”
+Geophysics, 76, article ID G37, 2011.
+
+45"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+STSM 2
+THE PRESERVATION OF THE THOLOS TOMB OF ACHARNON
+Visiting ESR: Dr. Sonia Santos Assuncao,
+Polytechnic University of Catalonia, Barcelona, Spain
+Host: Mr. Klisthenis Dimitriadis, Geoservice, Athens, Greece
+STSM Dates: 15 January 2014 – 15 February 2014
+1. PURPOSE OF THE STSM
+During 2013 and at the beginning of 2014, an extensive
+geophysical survey was carried out and it is still ongoing in a
+very important Monument of the Hellenic Cultural Heritage, the
+Tholos Tomb of Acharnon. The geophysical survey was carried out
+from Geoservice under the supervision of Klisthenis Dimitriadis
+(geophysicist).
+The geophysical data acquisition has been
+assisted by Yannis Konstantakis (electronic engineer). Fotini
+Karassava (Architect) worked in close cooperation with
+Geoservice, from the beginning of this project. Two further
+organizations participate to this work in a form of partnership,
+and provide assistance. These are: the 2nd Ephorate of Prehistoric
+and Classical Antiquities of Greece, and the Municipality of
+Acharnon. The Ephorate is the responsible authority for the
+archaeological site as well as for all the ancient antiquities of
+Athens area and surroundings (except the Parthenon); its task is
+to protect and conserve the Antiquities in a sustainable way.
+The Municipality of Acharnon is the second in size municipality
+of the Attiki region, after the Municipality of Athens; its own
+interests are the preservation of the Acharnon Tomb and the
+touristic promotion of this monument to the maximum possible
+extent.
+The STSM was carried out in Geoservice and had the main
+objective to study with Ground Penetrating Radar the Tomb of
+Acharnon. This monument has been built in the Mycenaean
+46"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+period (1600 BC) and is characterised by a beehive shape with a
+circular base. Due to temperature and umidity variations, to
+vibrations produced both by the local traffic and the earthquakes,
+as well as to the high salt content of the unsaturated zone, there
+are several problems inherent to the preservation of the Tomb of
+Acharnon. In this STSM, the unknown thickness of the walls had
+to be determined; results were plotted using circular radargrams.
+Discontinuities in the radargrams may be associated to fissures
+or voids, indicating internal and external (superficial) damages of
+the Tomb, which are very important to be located and
+characterised. A combination of GPR with electrical resistivity
+tomography could allow us to perform a more accurate data
+interpretation. The vibrations in the Tomb could be quantified by
+using seismic measurements and the endoscopy was used to
+confirm the thickness of the building walls estimated by GPR. The
+host institution works with professionals from different scientific
+areas such as: geophysics, geochemistry, civil engineering,
+conservation and archaeology. A multidisciplinary team is
+essential to correctly interpret GPR radargrams.
+2. DESCRIPTION OF THE WORK CARRIED OUT DURING THE STSM
+Data acquisition was carried out in two areas of the Tomb:
+internal and external (i.e., the surface of the structure covering
+the Tomb). The internal part has been subdivided into three
+parts: i) the dromos, constituting the path to the Tomb, ii) the
+entrance, representing the connection between the dromos and
+the external part of the Tomb, and iii) the Tomb walls.
+The STSM was principally focused to the study of the Tomb
+walls (iii), a structure characterised by 8.4 m diameter and 9 m
+height. Radar data were acquired and plotted in circular profiles.
+The surfaces of the walls were extremely irregular. Hence, a
+thin polyurethane foam sheet was used to obtain a more regular
+surface in order to avoid noise as a consequence of the rough
+stone walls, see Figure 1, left part. This sheet also allows
+protecting the antenna from mechanical erosion. The effect of this
+thin extra-layer is not perceptible in radar images.
+47"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Profiles were marked on the walls with a laser. The antenna
+was moved along the line described by the laser, figure 1, right.
+The complex structure required high coordination in the
+radar acquisition tasks, and a minimum of four persons were
+needed to execute properly all the process, adapting accurately
+the polyurethane sheet and assuring uniform motion of the radar
+antenna. A survey wheel provided the determination of the
+antenna position.
+The height of the Tomb was 9 m. Therefore, the first 2 m
+could be studied without problems; the evaluation of the upper
+levels required the installation of scaffoldings. Three platforms
+divided the total volume in four parts (level 0, 1, 2 and 3),
+allowing the access to entire wall.
+Three different center frequency antennas were used in the
+study. The inner part of the Tomb was evaluated by means of a 1
+GHz center frequency antenna, obtaining enough resolution to
+image the walls until 1 m of thickness.
+
+Figure 1 – Data acquisition. Left: Sample of the anomalous surface
+with a fissure. Right: Laser to produce the circular profiles.
+
+In the exterior of the Tomb, a 500 MHz center frequency
+antenna was used, to study the material covering the Tomb.
+Finally, a 2.3 GHz center frequency antenna was employed to
+48"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+analyze the radar wave velocity that was used to convert two-way
+travel times into depths.
+3. DESCRIPTION OF THE MAIN RESULTS OBTAINED DURING THE STSM
+An accurate analysis of the radar data allowed us to define the
+existence of two irregular layers of stones that constitute the walls
+of the Tomb. The main anomalies are caused by discontinuities in
+the materials. An average thickness could be determined, although
+it was highly variable. Figure 2 shows the radar image over one
+meter; this data are extracted from a circular profile. Figure 3
+shows the whole circular radargram, taking into account and
+representing the geometry of the Tomb. Both figures illustrate the
+existence of layers, irregular targets and discontinuities associated
+to cracks, fissures and voids. High attenuation was present in
+several areas. This effect was caused by the presence of salt.
+In the circular radargrams, reported in Figure 3, it is
+possible to appreciate the thickness of the wall and the
+discontinuities of internal layers to be associated with fissures and
+voids. Due to localized signal attenuation and presence of salts
+detected by visual inspection, it is also possible to map zones with
+higher salt content. The three dimensional model, resulting from
+the interpolation of GPR profiles collected at different heights,
+provides an estimation of the real shape of the anomalies as well
+as the possibility to analyze their vertical continuity.
+The GPR data are in accordance with the results of the
+micro-resistivity surveys carried out in a second phase of the
+study. This additional geophysical method used ERT (Electrical
+Resistivity Tomography) to map the walls in profiles of 3.1 m. This
+allowed us to verify the interface between the wall of the grave
+(schist stones) and his geological environment (very fine sand). In
+Figure 4, a characteristic profile is presented. Low resistivity
+correspond to sand and high resistivity (red areas) to the wall of
+the grave.
+
+49"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 2 - Profile measured at 23 cm height. Up – Filtered
+radargram; Down – Interpreted radargram.
+
+50"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 3 - Profile measured at 23 cm of height, depicted in circular
+shape, respecting the entrance size. Up – Filtered radargram;
+Down – Interpreted radargram.
+
+51"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 4- Electrical resistivity tomography.
+
+4. FUTURE COLLABORATION WITH THE HOST INSTITUTION
+Given the results obtained in Tomb of Acharnon, the methodology
+used to analyze the Tomb of Acharnon could be standardized. In
+this way, this procedure cOULD be applied to other archaeological
+monuments.
+The circular GPR technology is of great interest for the host
+institution, especially to carry out investigations of Ancient
+columns, mostly made of marble or sandstone, in order to map
+stone imperfections or internal cracks and deterioration.
+
+5. FORESEEN PUBLICATIONS/ARTICLES RESULTING FROM THE STSM
+ThIS work will be presented during the 2014
+Geosciences Union General Assembly (2014 EGU GA):
+
+European
+
+" Sonia Santos Assuncao, Klisthenis Dimitriadis, Yannis
+Konstantakis, Vega Perez-Gracia, Eirini Anagnostopoulou,
+Mercedes Solla and Henrique Lorenzo, “Non-destructive
+assessment of the Ancient Tholos Acharnon Tomb building
+geometry, Geophysical Research Abstracts, Vol. 16,
+EGU2014-13961-1, 2014, EGU General Assembly 2014.
+
+52"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+6. ACKNOWLEDGMENTS
+
+My special thanks for:
+• Geoservice, Geophysicist M.Sc. Klisthenis Dimitriadis and Mr.
+Yannis Konstantakis for the opportunity, entire collaboration
+and efforts.
+• Dr. Vega Perez-Gracia that helped me and encouraged me
+during the STSM.
+• The 2nd Ephorate: Dr Eleni Andrikou, PhD Fotini Karasavva,
+Archaeologist Eirini Anagnostopoulou, M.Sc. Conservator
+Georgianna Moraitou and the Conservator Kanakis Hararis for
+the interdisciplinary work and the interchange of knowledge.
+• To the Municipalty of Acharnon: Archaeologist Elena
+Kassiotaki and Archaeologist Vasileios Avramidis, for the
+constant support.
+• To the guardian of the Tomb of Acharnon Mr Pantelis, Mr
+Triantafyllos and Mr Konstantinos for the collaboration during
+data acquisition.
+• To COST for funding the Action TU1208, supporting this
+STSM.
+
+The interdisciplinary team working on the non-destructive
+assessment of the Tholos Tomb of Acharnon, during the STSM
+
+53"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+STSM 3
+NUMERICAL MODELLING OF GROUND PENETRATING RADAR ANTENNAS
+Visiting Researcher: Mr. Iraklis Giannakis
+The University of Edinburgh, Edinburgh, United Kingdom
+Host: Dr. Lara Pajewski, Roma Tre University, Rome, Italy
+STSM Dates: 22 January 2014 – 22 March 2014
+
+1. PURPOSE OF THE STSM
+Realistic and effective ground penetrating radar (GPR) modelling is
+based on efficient and accurate solutions of Maxwell’s equations.
+Numerical methods for solving Maxwell’s equations range from
+finite element methods, the method of moments, finite difference
+implicit techniques, transmission-line matrix (TLM) methods and
+others (Sadiku, 2000). One of the most highly used methods
+however is the finite difference time domain (FDTD). The reasons
+for its popularity are its simplicity and computational efficiency
+(Taflove, 2000).
+GprMax (Giannopoulos, 2005) is a freely available GPR
+modelling software package, which solves Maxwell’s equations and
+is used throughout this paper. GprMax employs a second order in
+both space and time FDTD algorithm first described by Yee (1966).
+GPR numerical modelling has been widely used to study and
+enhance data understanding and interpretation in a variety of
+GPR applications. Amongst them, dense non-aqueous phase
+liquids (DNAPL) detection (Wilson et. al. 2007), tunnel inspections
+(Xianqi et. al. 2009), bridges evaluation (Diamanti et. al. 2011),
+forensic applications (Hannon et. al. 2000), landmine detection
+(Oguz and Gurel 2000). For near surface applications however,
+like forensic, engineering and landmine detection, the scale of the
+problem and the proximity of targets to GPR sensors gives rise to
+some unique characteristics which must be taken into account for
+
+54"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+realistic and effective GPR modelling. Two of the most important of
+these characteristics are:
+•
+
+•
+
+The antenna occupies a relative large volume in the modelled
+domain, this means that the antenna is not only related to the
+characteristics of the transmitted pulse (directivity, central
+frequency etc.) but also is part of the model, which contributes
+to the measured scattered field.
+Increased sensitivity to background characteristics due to the
+high frequency content of the pulse, this means that media
+inhomogeneity and rough surfaces must be included into the
+model.
+
+A numerical pavement-evaluation case study is presented in
+this report, to illustrate the developed modelling framework.
+Pavement evaluation traditionally requires the retrieval of
+information about the layer thickness within the pavement as well
+as the dielectric properties of the latter. Air-coupled horn antennas
+are often used for this purpose. The main drawbacks of horn
+antennas are their low spatial resolution and their inability to
+often illustrate clear hyperbolic scattering phenomena (Diamanti,
+2012). The mentioned drawbacks create doubts about the
+effectiveness of air-coupled antennas in detecting lateral cracks
+within the pavement.
+In our simulations, pavement is realistically modeled.
+Fractals are used to mathematically define the stochastic variation
+of the dielectric properties within the pavement as well as its
+rough surface. Two different antennas, one air-coupled horn
+antenna and one ground-coupled bowtie, are implemented into the
+model and their effectiveness in pavement evaluation and crack
+detection is compared.
+The main aim is to present and establish a realistic
+modeling framework that can be used in evaluating antenna
+designs and their performance in complex near surface GPR
+investigations.
+
+55"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2. DESCRIPTION OF THE WORK CARRIED OUT DURING THE STSM
+
+Air coupled antennas like horn antennas have been extensively
+used for pavement evaluation using Ground Penetrating Radar
+(GPR). The main reasons for that are:
+•
+•
+•
+
+They are capable to detect thin layers.
+They operate safely in highway speeds because they don’t need
+to be close to the ground.
+They are relative easy to manufacture.
+
+We examine an E-plane monostatic horn antenna with
+central frequency of 2.6 GHz.
+Regarding the feeding of the antenna, a TE10 mode is used
+which is excited inside a rectangular waveguide with dimensions
+0.25 x 0.022 m. With the previously mentioned dimensions, a
+single mode of propagation in the frequency range 0.6 – 6.8 GHz is
+achieved. The receiver is modeled by a coaxial cable. The inner
+and outer conductor of the coaxial cable have radii of 0.5 mm and
+4 mm respectively and it is filled with plastic with relative
+electrical permittivity equal to 2.5. The spatial discretization step
+of the model is Δl =1 mm and the time step is equal with Δt =1.925
+ps (Courant limit). Figures 1 and 2 illustrate the geometry of the
+antenna and the propagation of the TE10 mode inside it.
+Apart from the horn antenna described above, a ground
+coupled bowtie antenna is also implemented into the models
+(Figure 3). The model of this antenna is based on a commercial
+available antenna, which is designed for near surface applications
+as introduced by Warren and Giannopoulos 2011.
+The previously described antennas are tested in a realistic
+pavement evaluation scenario. The pavement consists of two
+layers, the asphalt layer and the base as depicted in Figure 4.
+
+56"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 1 - The geometry of the 2.6 GHz monostatic horn antenna.
+
+Figure 2 - Snapshots of the TE10 mode propagating inside the
+horn antenna.
+
+57"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 3 - Ground coupled bowtie antenna
+with central frequency of 1.6 GHz.
+The asphalt layer has a relative electric permittivity, which
+varies stochastically from 6 to 8 and the base from 10 to 12. The
+conductivity of both layers is equal to σ =0.01 S/m. Fractals were
+used in order to create realistic variations of the dielectric
+properties within each layer. The pavement’s surface is relatively
+smooth with small variations as it is expected in old or highly used
+roads. Again fractals were used to incorporate the rough surface.
+Three cracks created using random walks are implemented into
+the model. The cracks are filled with air and they have a 3 mm
+width. One of them occurs in the first layer but does not reach the
+surface, another one occurs in the second layer and the third one
+cuts through both layers. The dimensions of the model (x, y, z) are
+1300 x 300 x 600 mm. The simulations were executed in a parallel
+computing environment using the cluster computer provided by
+The University of Edinburgh. In order to reduce the computational
+cost, we divide the domain in subdomains according to the
+position of the antenna unit. Every trace of the resulting B-scan is
+as a result calculated in a different subdomain. Using this scheme
+we have assumed that the scattering field that might exist outside
+of the subdomains is negligible compared with the scattering field
+inside the subdomain.
+
+58"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+The horn antenna is placed at 20 cm above the ground while
+the bowtie antenna is placed 2 cm above the ground. Figure 5
+illustrates the resulting B-scans from both antennas. A linear gain
+is applied to the resulting B-scan using the horn antenna. From
+Figure 5 (left side) is evident that clear reflections from the base
+are obtained and the cracks practically do not contribute to the
+received scattering field.Using the bowtie antenna and a singular
+value decomposition (Kim et. al. 2000) results to the B-scans
+shown in Figure 5 (right side). From the B-scans it is evident that
+all the cracks give clearer and more prominent interpretable
+hyperbolic responses.
+
+Figure 4 - The modelled pavement evaluation scenario. The
+medium is consisted with two non-homogenous layers and three
+air-filled cracks are also included into the model.
+
+59"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+0
+
+1
+
+2
+
+3
+
+Time (ns)
+
+4
+
+5
+
+6
+
+Base
+
+Surface
+
+7
+
+8
+
+9
+
+200
+
+300
+
+400
+
+500
+
+600
+X distance (mm)
+
+700
+
+800
+
+900
+
+(<2)=0
+
+Time (ns)
+
+0
+2
+4
+6
+8
+100
+
+200
+
+300
+
+400
+
+500
+X axis (mm)
+(<3)=0
+
+600
+
+700
+
+800
+
+100
+
+200
+
+300
+
+400
+
+500
+X axis (mm)
+(<4)=0
+
+600
+
+700
+
+800
+
+100
+
+200
+
+300
+
+400
+
+500
+X axis (mm)
+
+600
+
+700
+
+800
+
+Time (ns)
+
+0
+2
+4
+6
+8
+
+Time (ns)
+
+0
+2
+4
+6
+8
+
+Figure 5 - Left: The resulting B-scan (after linear gain) using the
+air-coupled 2.6 GHz horn antenna. Right: The B-scans using the
+ground coupled bowtie antenna, after removing 2,3 and 4
+dominant eigenvalues.
+
+60"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+3. DESCRIPTION OF THE MAIN RESULTS OBTAINED DURING THE STSM
+
+An air-coupled horn antenna and a ground-coupled bowtie
+antenna are tested in a realistically modeled pavement evaluation
+scenario. The numerical results indicate that air-coupled antennas
+receive clear reflections from distinct layers within the pavement
+but they are incapable in this setting to detect cracks filled with
+air. On the other hand, using ground-coupled antennas results to
+clear and easy to interpret hyperbolic responses from the buried
+cracks. The developed modeling framework is a powerful tool in
+evaluating the performance of high frequency GPR transducers in
+realistic situations and this approach can lead to better design of
+GPR antennas.
+4. FUTURE COLLABORATION WITH THE HOST INSTITUTION
+Air coupled antennas are a very practical choice for pavement
+evaluation due to their ability to operate on highway speeds. The
+research done so far suggest that air coupled antennas like horn
+antennas are not effective when it comes to air filled crack
+detection. Future work will include the design of a novel air
+couples antenna which will be able to reliable detect air filled
+cracks.
+Future work also includes modeling of generic type of GPR
+antennas and assessing their performance in more case civil
+engineering applications.
+5. FORESEEN PUBLICATIONS/ARTICLES RESULTING FROM THE STSM
+The STSM work will be presented during the 2014 EGU General
+Assembly:
+" I. Giannakis, A. Giannopoulos, L. Pajewski, “Ground
+Penetrating Radar Antennas”, Geophysical Research
+Abstracts, vol. 16, EGU 2014-1553, 2014.
+
+61"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+6. ACKNOWLEDGMENTS
+
+COST is acknowledged for funding the Action TU1208 “Civil Engineering
+Applications of Ground Penetrating Radar” and supporting this STSM.
+
+7. REFERENCES
+Diamanti N. and Redman D., 2012, Field observations and
+numerical models of GPR response from vertical pavement cracks,
+Journal of Applied Geophysics, vol. 81 pp. 106-116.
+Diamanti N. and Giannopoulos A., 2011, Employing ADI-FDTD
+subgrids for GPR numerical modelling and their application to
+study ring separation in brick masonry arch bridges, Near Surface
+Geophysics vol. 9, pp. 245-256.
+Giannopoulos A, 2005, Modelling of ground penetrating radar
+using GprMax, Construction and Building Materials, vol. 19, No
+10, pp. 755 – 762.
+Hammon W.S, McMechan G.A and Zeng X., 2000, Forensic GOR:
+finite- difference simulations of responses from buried human
+remains, Journal of Applied Geophysics, vol. 45, pp. 171-186.
+Kim J. H, Cho S. J. and Yi M. J, 2007, Removal of ringing noise in
+GPR data by signal processing, Geosciences Journal, vol. 11, pp.
+75-81.
+Sadiku M.N.O., 2000, Numerical Techniques in Electromagnetics,
+Second edition, CRC press.
+Oguz U. and Gurel L., 2002, Frequency responses of groundpenetrating radars operating over highly lossy grounds, IEEE
+Trans. Geosci. Remote Sensing, vol. 40, no. 6, pp. 1385-1394.
+Taflove A. and Hagness S. C., 2000, Computational
+Electrodynamics, The Finite-Difference Time-Domain Method, 2nd
+ed. Norwood, MA: Artech House.
+
+62"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Warren C. and Giannopoulos A., 2011, Creating FDTD models of
+commercial GPR antennas using Taguchis optimisation method,
+Geophysics, vol. 76, no. 37.
+Wilson V., Power C., Giannopoulos A., Gerhard J. and Grant G.,
+2009, DNAPL mapping by ground penetrating radar examined via
+numerical simulation, Journal of Applied Geophysics, vol. 69, pp.
+140-149.
+Xianqi H., Ziqiang Z., Guangyin L. and Qunyi L., 2009, The FDTD
+Modeling of GPR for Tunnel Inspection, International Conference
+on Information Engineering and Computer Science, pp.1-4.
+Yee K. S., 1966, Numerical Solution of Initial Boundary Value
+Problems Involving Maxwell’s Equations in Isotropic Media, IEEE
+Trans. Antennas Propag., vo. 14, pp. 302-307.
+
+63"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+STSM 4
+RECONSTRUCTING PREHISTORIC ENVIRONMENTS AT STONEHENGE
+WITH MULTIPLE ELECTROMAGNETIC SURVEY METHODS
+
+Visiting ESR: Mr Philippe De Smedt,
+Ghent University, Ghent, Belgium
+Host: Dr Immo Trinks, Ludwig Boltzmann Institute for
+Archaeological Prospection and Virtual Archaeology,
+Vienna, Austria
+STSM Dates: 1 February 2014 – 31 March 2014
+1. PURPOSE OF THE STSM
+The rationale of this project is that by mapping electromagnetic
+soil properties using different near surface geophysical survey
+methods an integral reconstruction can be attempted of the
+variations
+caused
+by
+anthropological,
+pedological
+and
+geomorphological structures in the subsurface. In order to achieve
+this,
+datasets
+from
+different
+multichannel
+GPR
+and
+electromagnetic survey systems will be compared and jointly
+interpreted. The different datasets that were processed, analysed
+and compared were data from 1) a multi-receiver electromagnetic
+induction (EMI) survey, and 2) a 3D ground-penetrating (GPR)
+survey collected. The EMI data were collected in 2012 by the
+Research Group Soil Spatial Inventory Techniques (ORBit) from
+Ghent University (Belgium), while the GPR data were gathered by
+the Ludwig Boltzmann Institute for Virtual Archaeology and
+Archaeological Prospection (LBI ArchPro) from Vienna (Austria).
+The multi-receiver EMI data were collected with a Dualem21s sensor that records the soil apparent electrical conductivity
+(ECa) and the apparent magnetic susceptibility (MSa) data of four
+different soil volumes simultaneously. The sensor consists of 1
+transmitter and four receiver coils spaced 1 m, 1.1 m, 2 m and 2.1
+m apart. The receiver coils at 1 m and 2 m from the transmitter
+are placed in horizontal coplanar mode (1 m and 2 m HCP
+64"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+respectively), while those at 1.1 m and 2.1 m are placed in
+perpendicular mode (1.1 m PRP and 2.2 m PRP respectively). This
+results in penetration depths down to 0.5 m, 1 m, 1.5 m and 3.2
+m below the surface for the ECa data. Further information on the
+Dualem-21s sensor can be found in (Saey et al., 2009). The multilayered dataset offers insight into the vertical and lateral
+variations in ECa and MSa and can serve as a basis for the 3D
+reconstruction of subsurface variations (e.g. Saey et al 2008, De
+Smedt et al. 2013).
+The 3D GPR data, gathered with a MALÅ Imaging Radar
+Array (MIRA) system in motorized configuration, provides
+information on the soil dielectric permittivity and on soil
+discontinuities in 3D. This MIRA system consists of 16×400 MHz
+channels with 0.08 m cross-line channel spacing and possibilities
+for 0.04 m or 0.08 m in-line GPR trace spacing.
+During the research stay we aimed at creating a robust
+methodological foundation for the combined analysis of the EMI
+and GPR data on which we can build future work and research
+combining these two methods.
+2. DESCRIPTION OF THE WORK CARRIED OUT DURING THE STSM
+During the research stay at the LBI ArchPro, EMI data gathered at
+Stonehenge were processed to allow combination with the GPR
+data. The different available GPR datasets of the study area were
+simultaneously analyzed, and an area was selected where the EMI
+and GPR datasets would be jointly analysed and combined (Fig. 1).
+This specific area was selected as 1) it holds clearly defined
+remains of a prehistoric monument (Fig. 2a), which was
+interpreted as a segmented ditch, 2) a number of geomorphological
+variations were observed in the EMI data (a palaeoriver (Fig. 2b)
+and variations in the chalk bedrock morphology (Fig. 2c). A
+comparison between the different geophysical datasets in this area
+would allow addressing the main research questions; i.e. a better
+understanding
+of
+the
+anthropological,
+pedological
+and
+geomorphological variations within the Stonehenge World Heritage
+Site.
+
+65"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+The main research effort during the STSM was directed
+towards a better understanding of the pedology and
+geomorphology of the study area through the combined analysis of
+GPR and EMI data.
+As a starting point, geostatistical analyses were performed
+on the EMI data to extract only variations that could be attributed
+to the morphology of the chalk bedrock. For this, ECa data from
+the 2.1 m PRP coil configuration (Fig. 2, left) were deemed the
+most suited as the depth sensitivity of these measurements
+accords with the depth range of the targeted soil variation (i.e.
+between 0-1 m below surface (Fig. 4). These slices were produced
+through in-house developed software from the LBI ArchPro
+institute.
+
+Figure 1 - Plot of the 1.1m PRP ECa data (left) and the 1 m HCP
+MSa data (right) from the 2012 EMI survey area. The subzone that
+was selected for detailed analysis during the STSM is highlighted
+and bordered by a black line in both plots.
+
+66"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 2 - Detail of the EMI data from the subzone indicated in
+Fig. 1. Left: 2.1 m PRP ECa data with indication of a low
+conductive area that is attributed to shallow chalk beneath the
+more conductive soil. Right: 2 m HCP MSa data with indication of
+the prehistoric monument (a) that is visible as a segmented ditch,
+and indication of the increased magnetic susceptibility that is
+attributed to palaeochannel sediments.
+After these datasets were produced, areas were selected
+where a significant overlap could be found between strong
+reflections in the GPR data on the one hand, and shallow bedrock
+as located through the classified ECa data. At these locations the
+preliminary depths, as extracted from the GPR profiles and depth
+slices where compared to the ECa data values from all coil pairs
+from the Dualem-21s sensor. Following the procedure of Saey et
+al. 2008 and De Smedt et al. 2011, these depths were then used
+as calibration values to model the depth of the chalk bedrock
+based on the ECa data.
+
+67"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 3 - GPR depth slices representative for a depth range of 00.5 m below the surface (left) and for a range of 0-1 m below the
+surface (right).
+The second research topic that was addressed, focused on
+the archaeological variations within the study area. Again
+geostatistical data analyses were used as a starting point. The
+main datasets that were used were the MSa data from the 1 m and
+2 m HCP coil configurations (Fig. 1 and 2, right), and the 0-0.5 m
+GPR depth slice (Fig. 3, left). Principal component analysis was
+conducted in Isatis to visualize the small scale variation present
+within these datasets within the study area. In a final step, the
+results of the first and second research topics were combined to
+allow a fuller interpretation of the subsurface variation within the
+study area.
+3. DESCRIPTION OF THE MAIN RESULTS OBTAINED DURING THE STSM
+Analysis of the 2.1 m PRP data showed a distinct large scale
+spatial variation that could be clearly visualized through isolating
+
+68"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+the relevant spatial structural component with factorial kriging
+(Fig. 4, left). The resulting data were then successfully classified
+through fuzzy k means classification, offering a detailed map of the
+geomorphological variation that was detected through the EMI
+survey (Fig. 4, right).
+
+Fig. 4: Left: Residual 2.1 m PRP ECa data produced through
+factorial kriging analysis, representing the large scale spatial
+variation within the study area. Right: Classified residual 2.1 m
+PRP ECa data. The low ECa data (red) class can be interpreted as
+shallow chalk bedrock, while the high ECa data class (blue)
+represents deeper bedrock (i.e. thicker overlaying soil layer). The
+areas indicated with 1 and 2 are those were the best visual
+correlation was found with high reflections in the GPR depth slice.
+Visual comparison between the high reflections in the 0-0.5
+m GPR depth slice (Fig. 3) and the areas with shallow chalk as
+present in the classified EMI ECa data, allowed identifying two
+zones where a direct correlation could be witnessed between these
+datasets (1 and 2 on Fig. 4).
+69"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+We attempted to correlate these structures to specific
+reflections in the separate GPR profiles, but were unable to do so
+in a robust manner during the STSM. The correlation was only
+possible based on the visual analysis of the 0.5 m thick GPR slice
+and of 0.05 m thick slices within the 0 – 0.5 m depth range. We
+found that only at specific locations the GPR reflections could be
+correlated to the depth of the interface between the soil and the
+underlying chalk bedrock. It was therefore proposed that the
+boundary between soil and bedrock was often characterized by a
+gradual transition between the weathered soil material and the
+underlying chalk. While the difference in electrical conductivity
+allows discerning between these two layers (i.e. soil and chalk),
+these do not represent discontinuities that are easily identified in
+the non-migrated GPR data. The largest reflections in the GPR
+data are produced by discontinuities present within the chalk
+bedrock (e.g. fractures and intercalated flint patches) (Fig. 5).
+To model morphology of the chalk bedrock, we therefore
+introduced preliminary depths into the modeling procedure based
+on the correspondence between the 0.05 m thick GPR slices and
+the EMI classification. This way, we were able to generate a
+preliminary model of the bedrock morphology (Fig. 6). The
+resulting model shows a different morphology than the smooth
+current topography.
+In a following step the comparison of the MSa data and the
+GPR data was taken on. After resampling the data to the same
+grid, PCA of the different datasets were conducted. It was found
+that the correlations between them were not significant (i.e. r <
+0.1) to provide a basis for detailed interpretation of the detected
+variations (a problem which was equally observed by Kvamme
+(2006) when combining multiple geophysical datasets for
+archaeological interpretation). However, visualizing the first
+component loadings of the PCA of the full 2 m HCP MSa dataset
+and the 0.5 m thick GPR slice, did offer a straightforward insight
+into the features that contribute the most to the combined
+variance within the study area. While the resulting data offer no
+basis for quantitative analysis or characterization of the detected
+
+70"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+features, these do facilitate the visual evaluation of the small scale
+variation present within both datasets.
+The features indicated on Fig. 7 represent the clearest and
+most characteristic anomalies that were found through the
+evaluation of the combined data plot. In the center of the area, a
+prehistoric monument is present that was most visible in the MSa
+data. Southwest of the segmented ditch, a strong reflection can be
+seen leading up to this monument. Adjacent this reflection, the
+bedrock model reveals small depressions that are possibly manmade.
+
+Fig. 5: GPR profile over a location where shallow chalk was
+suggested by the EMI data analysis (see Fig. 4). The location where
+shallow bedrock was assumed is indicated (left arrow) along with a
+characteristic deeper GPR reflection as present throughout the
+entire dataset (right arrow).
+
+71"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 6 - Combined 3D
+data plot showing the
+bedrock model with overlay
+of the 1st component
+loadings of the MSa – GPR
+principle component
+analysis with indication of
+the most characteristic
+features.
+"
+
+72"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Farther to the edge of the area we find another, larger
+depression in the bedrock that leads from the palaeochannel
+deposits in the far south(west) of the area and directs towards the
+monument. This depression is flanked by two linear expressions of
+shallow bedrock, present in both the GPR and ECa data.
+The presented results show the potential of combining EMI
+and GPR for detecting and characterizing different types of
+subsurface variations at Stonehenge. While during the research
+stay the results have been mainly descriptive, we did however lay
+out a methodological work flow for a quantitative combination of
+the different datasets.
+4. FUTURE COLLABORATION WITH THE HOST INSTITUTION
+
+We are currently already advancing the work that was started
+during the STSM. To further the modelling of the calcareous
+bedrock, we are reprocessing the GPR data. This work is being
+done in close collaboration with the LBI ArchPro (more specifically
+with Eng. Alois Hinterleitner and Dr. Immo Trinks), dr. Lieven
+Verdonck (Dept. of archaeology, Ghent University) and the ORBit
+research group from Ghent University. To date we have
+successfully migrated the GPR data, offering a more accurate
+insight into the true depth of the detected features. This is also
+allowing to better discern the interface between the soil and the
+underlying bedrock (Fig. 7).
+In a following step we will conduct a correlation analysis
+between the migrated GPR data and the ECa data (see above) to
+establish a calibration dataset and build a bedrock model with
+increased accuracy.
+Based on the further processing and analysis of the GPR
+data, we plan to investigate the relationship between the MSa data
+and the small scale anomalies present in the GPR data. Here as
+well, the migration of the GPR data should provide a rigorous basis
+for a more robust comparison of these two data types.
+While this was not elaborated on during the STSM, we have
+started comparing the MSa data to the magnetometry data from
+the LBI ArchPro. These data were exchanged during the research
+73"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+stay and we are pursuing a combination of these two datasets to
+better characterize the nature of magnetic variations within the
+study area (e.g. discerning between recent metal debris and
+relevant archaeological variations within the study area).
+
+Figure 7 - Migrated GPR profile (similar as the non-migrated data
+presented in Fig. 5). Both profiles in the illustration show the same
+data, in the bottom illustration a minute reflection is traced that
+was (preliminary) attributed to the interface between the soil and
+the underlying bedrock. Migration procedure and illustration are
+courtesy of dr. Lieven Verdonck.
+"
+"
+
+74"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+5. FORESEEN PUBLICATIONS/ARTICLES RESULTING FROM THE STSM
+
+We aim at a publication on the joint use of 3D GPR data and
+multi-receiver EMI (ECa) data to model the depth to a pre-defined
+soil layer at Stonehenge. The model results presented in this
+report are a prelude to this work, and the reprocessing of the GPR
+data discussed above are providing the basis for a more
+quantitative data integration needed for such a publication.
+The combined analysis of the MSa and magnetometry data is
+also aimed towards at least one publication. This work mainly
+focusses on differentiating between recent and archaeological soil
+intrusions.
+6. ACKNOWLEDGMENTS
+COST is acknowledged for funding the Action TU1208 “Civil Engineering
+Applications of Ground Penetrating Radar” and supporting this STSM.
+
+7. REFERENCES
+De Gruijter, J. J. & McBratney, A. B. 1988. A modified fuzzy kmeans method for predictive classification. In: Classification
+and Related Methods of Data Analysis. (ed. H. H. Bock), 97104. Elsevier, Amsterdam.
+De Smedt, P., Van Meirvenne, M., Herremans, D., De Reu, J.,
+Saey, T., Meerschman, E., Crombe, P., De Clercq, W., 2013.
+The 3-D reconstruction of medieval wetland reclamation
+through electromagnetic induction survey. Scientific Reports
+3: 1517.
+De Smedt, P., Van Meirvenne, M., Meerschman, E., Saey, T., Bats,
+M., Court-Picon, M., De Reu, J., Zwertvaegher, A., Antrop,
+M., Bourgeois, J., De Maeyer, P., Finke, P.A., Verniers, J.,
+Crombé,
+P.,
+2011.
+Reconstructing
+palaeochannel
+morphology with a mobile multicoil electromagnetic
+induction sensor. Geomorphology 130: 136-141.
+
+75"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Kvamme, K.L., 2006. Integrating multidimensional geophysical
+data. Archaeological Prospection 13: 57-72.
+Régionalisées. Publication N-732, Centre de Géostatistique, Ecole
+des Mines de Paris, Fontainebleau.
+Saey, T., Simpson, D., Vermeersch, H., Cockx, L., Van Meirvenne,
+M., 2009. Comparing the EM38DD and Dualem-21S sensors
+for depth-to-clay mapping. Soil Science Society of America
+Journal 73: 7-12.
+Saey, T., Simpson, D., Vitharana, U.W.A., Vermeersch, H.,
+Vermang, J., Van Meirvenne, M., 2008. Reconstrucing the
+paleotopography beneath the loess cover with the aid of an
+electromagnetic induction sensor. Catena 74: 58-64.
+Van Meirvenne, M., and Goovaerts, P., 2002. 'Accounting for
+spatial dependence in the processing of multi-temporal SAR
+images using factorial kriging', International Journal of
+Remote Sensing, 23: 371-387.
+
+76"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+TRAINING SCHOOL 1
+MICROWAVE IMAGING AND DIAGNOSTICS:
+THEORY, TECHNIQUES, AND APPLICATIONS
+Organised by:
+COST Action TU1208, COST Action TD1301,
+European School of Antennas (ESoA)
+Venue: Madonna di Campiglio, Italy
+Dates: 24-28 March, 2014
+Report by the MC Chair, Lara Pajewski
+
+The COST Actions TU1208 “Civil Engineering Applications of
+Ground Penetrating Radar” and TD1301 “Development of a
+European-based
+Collaborative
+Network
+to
+Accelerate
+Technological, Clinical and Commercialisation Progress in the Area
+of Medical Microwave Imaging,” in cooperation with the European
+School of Antennas (ESoA), successfully organised a Training
+School (TS) on “Microwave Imaging and Diagnostics: Theory,
+Techniques, and Applications.”
+The school was held in Madonna di Campiglio, a charming
+and elegant Italian village nestling at an altitude of 1550 metres in
+the stupendous valley between the Brenta Dolomites and the
+glaciers of Adamello and Presanella.
+Electromagnetic waves can be exploited as sensing tools in a
+number of interesting engineering applications including Ground
+Penetrating Radar (GPR) prospection, antenna characterisation,
+biomedical diagnostics, through-the-wall imaging, and many
+others. The TS, after reviewing fundamental equations and main
+difficulties of inverse problems in high-frequency electromagnetics,
+focused on classical and innovative imaging techniques.
+Capabilities, limitations, and perspectives of both approximate and
+77"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+'exact' reconstruction methods were discussed. Applicative
+examples were presented, with a particular focus on the topics of
+the organising COST Actions TU1208 and TD1301.
+Coordinators of the TS were Prof Andrea Massa (ELEDIA
+Research Center, University of Trento, Italy, TU1208 MC Member)
+and Prof Tommaso Isernia (LEMMA Research Group, Mediterranea
+University of Reggio Calabria, TU1208 WG Member).
+Teachers of the Training School were Dr Lorenzo Crocco
+(National Research Council, Italy, TU1208 WG Member and P4.2
+Co-Leader, TD1301 MC Member), Prof Tommaso Isernia, Prof
+Fernando Las-Heras (Universidad Politécnica de Madrid, Spain),
+Dr Dominique Lesselier (SUPELEC, France, TU1208 WG Member),
+Prof Joe Lo-Vetri (University of Manitoba, Canada), Prof Andrea
+Massa, Prof Giuseppe Schettini (Roma Tre University, Italy) and
+Prof Alessandro Toscano (Roma Tre University, Italy).
+Tutors of software exercise were Dr Giacomo Oliveri (ELEDIA
+Research Center, University of Trento, Italy, TU1208 WG Member),
+Dr Paolo Rocca (ELEDIA Research Center, University of Trento,
+Italy, TU1208 WG Member) and Dr Andrea Morabito (LEMMA
+Research Group, Mediterranea University of Reggio Calabria).
+The school was attended by 39 Trainees from 14 COST
+Countries. There were 36% female and 64% male Trainees; 10% of
+the Trainees were Early-Career Investigators, all the other Trainees
+were PhD Students. The distribution of Trainees per Country is
+presented in Figure 1; it can be noted that 20% of the Trainees
+came from less research-intensive Countries. The Action TU1208
+funded 6 TS Grants representing a contribution to cover travel,
+meal and accommodation expenses (50% of the grants were given
+to female and 50% to male Trainees); 6 further TS Grants were
+offered by the Action TD1301. A nice photo of a group of Trainees
+is reported in Figure 2.
+The TS included 32.5 hours of classes (27 hours of lessons,
+3.5 hours of software exercises and 2 hours of final exam),
+spanning over 5 days. The class scheduling is reported in the
+following pages.
+78"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Figure 1 – Number of Trainees attending the school per Country.
+CLASS SCHEDULING
+Monday, 24 March 2014 - Introduction and basic theory
+Time
+
+Teacher
+
+09:15 - 09:30
+09:30 - 11:00
+
+Welcome
+A. Massa
+
+11:00 - 11:15
+11:15 - 12:45
+
+A. Massa
+
+Mathematical issues related to inverse
+scattering problems
+Lunch
+
+T. Isernia
+
+16:30 - 16:45
+16:45 - 18:15
+
+Introduction to inverse scattering
+Coffee break
+
+12:45 - 14:30
+14:30 - 16:30
+
+Activity
+
+Inverse source problems: radiated field
+properties, basic limitations,
+regularisation techniques
+Coffee break
+
+T. Isernia
+
+Inverse source problems: applications to
+antenna characterisation, diagnostics and
+synthesis
+
+79"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Tuesday, 25 March 2014 - Qualitative imaging methods
+Time
+
+Teacher
+
+Activity
+
+08:30 - 09:30
+
+L. Crocco
+
+Introduction to qualitative imaging
+problems
+
+09:30 - 10:30
+
+D. Lesselier
+
+Qualitative imaging problems: part 1
+
+10:30 - 10:45
+10:45 - 12:45
+
+Coffee break
+L. Crocco
+
+12:45 - 14:30
+14:30 - 16:30
+
+Lunch
+D. Lesselier
+
+16:30 - 16:45
+16:45 - 18:45
+
+Qualitative imaging problems: part 2
+Qualitative imaging problems: part 3
+Coffee break
+
+A. Morabito
+
+Software exercise
+
+Wednesday, 26 March 2014 - Quantitative imaging:
+approximated and complete methods
+Time
+
+Teacher
+
+Activity
+
+08:30 - 10:00 T. Isernia
+
+Quantitative imaging problems:
+introduction
+
+10:00 - 10:30 J. Lo-Vetri
+
+Quantitative imaging problems (1)
+
+10:30 - 10:45
+
+Coffee break
+
+10:45 - 12:45 J. Lo-Vetri
+
+Quantitative imaging problems (2)
+
+12:45 - 14:30
+
+Lunch
+
+14:30 - 16:00 A. Massa
+
+Quantitative imaging problems (3)
+
+16:00 - 16:15
+
+Coffee break
+
+16:15 - 17:15 A. Massa
+
+Quantitative imaging problems (4)
+
+17:15 - 18:45
+20:30
+
+G. Oliveri/
+P. Rocca
+
+Software exercise
+Common dinner
+
+80"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Thursday, 27 March 2014 - Imaging applications
+Time
+
+Teacher
+
+Activity
+
+Till 14:30
+
+Free time
+
+14:30 - 16:30 F. Las-Heras
+
+Case Study 1:
+antenna diagnostics
+
+16:30 - 16:45
+
+Coffee break
+
+16:45 - 18:45 L. Crocco
+
+Case Study 2:
+bio applications and COST Action
+TD1301
+
+Friday, 28 March 2014 - Imaging applications, further issues
+and advanced topics
+Time
+
+Teacher
+
+Activity
+
+8:30 10:30
+
+G. Schettini
+A. Toscano
+
+Case Study 3:
+Ground Penetrating Radar applications
+and COST Action TU1208
+
+10:30 10:45
+10:45 12:45
+
+Coffee break
+All
+
+12:45 14:30
+14:30 16:30
+
+Concluding remarks and future trends
+Lunch
+
+All
+
+Final exam/test
+
+81"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Figure 2 – A group of Trainees attending the School.
+
+82"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+TRAINING SCHOOL 2
+FUTURE RADAR SYSTEMS: RADAR 2020
+Organised by:
+COST Action TU1208, European School of Antennas (ESoA),
+European Microwave Association
+Venue: Karlsruhe Institute of Technology, Karlsruhe, Germany
+Dates: 24-28 March, 2014
+Report by the MC Chair, Lara Pajewski
+
+The COST Action TU1208 “Civil Engineering Applications of
+Ground Penetrating Radar,” the European School of Antennas
+(ESoA) and the European Microwave Association (EuMA),
+organised a Training School on "Future Radar Systems:
+Radar2020."
+The School was held in the Karlsruhe Institute of
+Technology, Karlsruhe, Germany, on May 5-9, 2014, and it
+covered the state of the art and new trends on radar technologies.
+After an introduction to the radar basics, including
+propagation of electromagnetic waves, radar equation, polarimetry,
+analysis of Radar Cross Section (RCS) of targets and RCS
+measurement, the current radar types were presented, as the CW-,
+FMCW-, pulse-, MTI-, mono-pulse-, and UWB-radar. These lessons
+were complemented by the waveform and radar-parameter topics.
+The core part of the course was the presentation of concepts
+relevant to future radars, which will be significantly different from
+the state of the art radars, with innovative system functions like
+digital beamforming, MIMO radar, intelligent signal coding (for
+example OFDM) and antenna array imaging for high resolutionsmall-size radars. Typical radar-antenna concepts for beamforming, arrays, and phased-arrays were presented, too. Another
+core part of the course was represented by the introduction to
+some special radar applications, like automotive radar, ultra
+wideband radar, Ground Penetrating Radar, through-the-wall
+radar, and Synthetic Aperture Radar for imaging.
+83"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Coordinator of the Training School was Prof Werner
+Wiesbeck (Karlsruhe Institute of Technology, Germany, TU1208
+WG Member). Trainers were Prof Werner Wiesbeck, Prof Thomas
+Zwick (Karlsruhe Institute of Technology, Germany), Prof
+Alexander Yarovoy (Delft University of Technology, The
+Netherlands, TU1208 WG Member), and Prof Marwan Younis
+(Karlsruhe Institute of Technology, Germany). Moreover, Dr Lara
+Pajewski (Roma Tre University, Italy, TU1208 Chair) attended part
+of the school and gave a presentation to introduce the COST
+framework and present the COST Action TU1208.
+The number of Trainees attending the school per Country is
+reported in Figure 1. The total number of Trainees was 16, from 7
+COST Countries; the percentage of female Trainees was 18.75%;
+only 6.25% of the Trainees came from less research-intensive
+Countries. The Action TU1208 offered 4 TS Grants to Trainees
+attending the School, as a contribution to cover travel, meal and
+accommodation expenses; the percentage of grants given to female
+Trainees was 25%.
+A photo of the Trainees is shown in Figure 2, whereas in the
+next pages the class scheduling is reported.
+
+Figure 1 – Number of Trainees attending the school per Country.
+84"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+CLASS SCHEDULING
+Monday, 5 May 2014 - Introduction and basic theory
+Time
+
+Teacher
+
+Activity
+
+08:30 - 10:00
+
+Registration and welcome.
+
+10:00 - 10:30
+
+Break
+
+10:30 - 12:00
+
+W. Wiesbeck
+
+12:00 - 13:30
+13:30 - 15:00
+
+Introduction, overview, radar history.
+Lunch
+
+W. Wiesbeck
+
+15:00 - 15:30
+
+Propagation phenomena. Polarimetry.
+Break
+
+15:30 - 17:00
+
+W. Wiesbeck
+
+Radar equation. Resolution. Accuracy.
+
+17:00 - 18:00
+
+W. Wiesbeck
+
+Exercise. Discussion.
+
+Tuesday, 6 May 2014 - Basic theory and radar types
+Time
+
+Teacher
+
+Activity
+
+08:30 - 10:00
+
+W. Wiesbeck
+
+RCS definition. RCS of targets.
+
+10:00 - 10:30
+10:30 - 12:00
+
+Break
+W. Wiesbeck
+
+12:00 - 13:30
+13:30 - 15:00
+
+Radar types. Pulse radar.
+Lunch
+
+T. Zwick
+
+15:00 - 15:30
+
+CW and FM-CW radars. Coding.
+Break
+
+15:30 - 17:00
+
+T. Zwick
+
+Automotive radar. Virtual drive.
+
+17:00 - 18:00
+
+T. Zwick
+
+Exercise. Discussion.
+
+85"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Wednesday,
+Laboratory
+
+7
+
+May
+
+2014
+
+-
+
+Future
+
+radar
+
+systems
+
+and
+
+Time
+
+Teacher
+
+Activity
+
+08:30 - 10:00
+
+W. Wiesbeck
+
+Future radar systems. OFDM radar.
+
+10:00 - 10:30
+10:30 - 12:00
+
+Break
+W. Wiesbeck
+
+12:00 - 13:30
+13:30 - 15:00
+
+Lunch
+W. Wiesbeck
+
+15:00 - 15:30
+15:30 - 17:30
+
+DSSS coding. Digital beamforming.
+
+MIMO radar. Array imaging.
+Break
+
+Daimler, IHE
+
+19:00
+
+Automotive radar demonstration.
+Common dinner
+
+Thursday, 8 May 2014 - GPR and SAR
+Time
+
+Teacher
+
+Activity
+
+8:30 - 10:00
+
+A. Yarovoy
+
+UWB radar basics.
+
+10:00 - 10:30
+
+Break
+
+10:30 - 12:00
+
+A. Yarovoy
+
+GPR and through-the-wall radar.
+
+12:00 - 12:30
+
+L. Pajewski
+
+COST Action TU1208
+
+12:30 - 14:00
+14:00 - 15:30
+
+Lunch
+M. Younis
+
+15:30 - 16:00
+
+SAR principles. SAR processing.
+Break
+
+16:00 - 17:30
+
+M. Younis
+
+SAR performance parameters. SAR
+modes.
+
+17:30 - 18:00
+
+M. Younis
+
+Exercise. Discussion.
+
+86"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+Friday, 9 May 2014 - SAR and final test
+Time
+
+Teacher
+
+Activity
+
+8:30 - 10:00
+
+M. Younis
+
+SAR Systems. SAR DBF.
+
+10:00 - 10:30
+10:30 - 11:30
+
+Lunch
+All
+
+11:30 - 12:30
+12:30 - 14:30
+
+Discussion.
+Lunch
+
+All
+
+Final exam
+
+Figure 2 – Trainees and Prof Werner Wiesbeck in front of the
+monument devoted to Heinrich Hertz.
+
+87"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+88"
+"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+TABLE OF CONTENTS
+PREFACE
+Lara Pajewski and Marian Marciniak
+
+3
+
+STSM 1 – “Electromagnetic modelling of Ground Penetrating Radar
+responses to complex targets”
+Visiting Scientist: Lara Pajewski, Host: Antonis Giannopoulos
+1. Purpose of the STSM
+
+7
+
+2. Description of the work carried out during the STSM and of the
+main results obtained
+8
+2.1: The FDTD technique and GprMax
+
+8
+
+2.2: MATLAB procedures for the processing and visualization
+of GprMax output data
+
+9
+
+2.2.1:
+2.2.2:
+2.2.3:
+2.2.4:
+2.2.5:
+2.2.6:
+2.2.7:
+2.2.8:
+2.2.9:
+2.2.10:
+2.2.11:
+2.2.12:
+
+ascan2D.m
+ascan3D.m
+ascan2Dback.m
+bscan2D.m
+bscan3D.m
+bscan2Dback.m
+geo2D.m
+geo3D.m
+geo3Dslice.m
+snapshot2D.m
+snapshot3D.m
+video2D.m
+
+9
+10
+11
+12
+13
+13
+14
+15
+16
+18
+19
+20
+
+89"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+2.3: Definition of test scenarios for the comparison of different
+Electromagnetic forward-and inverse-scattering methods
+21
+2.4: Modelling the defined test scenarios with GprMax
+
+23
+
+2.4.1: Cell1.1
+2.4.2: Cell1.2
+2.4.3: Cell1.3
+
+23
+34
+39
+
+2.5. Interaction with COST Action TU1206
+
+42
+
+3: Future collaboration with the host institution
+
+43
+
+4: Foreseen publications/articles resulting from the STSM
+
+44
+
+5: Acknowledgements
+
+44
+
+6: References
+
+44
+
+STSM 2 – “The preservation of the Tholos Tomb of Acharnon”
+Visiting Scientist:
+Dimitriadis
+
+Sonia
+
+Santos
+
+Assuncao,
+
+Host:
+
+Klisthenis
+
+1. Purpose of the STSM
+
+46
+
+2. Description of the work carried out during the STSM
+
+47
+
+3. Description of the main results obtained during the STSM
+
+47
+
+4: Future collaboration with the host institution
+
+52
+
+5: Foreseen publications/articles resulting from the STSM
+
+52
+
+6: Acknowledgements
+
+53
+90"
+
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+STSM 3 – “Numerical modelling of Ground Penetrating Radar
+antennas”
+Visiting scientist: Iraklis Giannakis, Host: Lara Pajewski
+1. Purpose of the STSM
+
+54
+
+2. Description of the work carried out during the STSM
+
+56
+
+3. Description of the main results obtained during the STSM
+
+61
+
+4: Future collaboration with the host institution
+
+61
+
+5: Foreseen publications/articles resulting from the STSM
+
+61
+
+6: Acknowledgements
+
+62
+
+7: References
+
+62
+
+STSM 4 – “Reconstructing prehistoric environments at Stonehenge
+with multiple electromagnetic survey methods”
+Visiting scientist: Philippe De Smedt, Host: Immo Trinks
+1. Purpose of the STSM
+
+64
+
+2. Description of the work carried out during the STSM
+
+65
+
+3. Description of the main results obtained during the STSM
+
+68
+
+4: Future collaboration with the host institution
+
+73
+
+5: Foreseen publications/articles resulting from the STSM
+
+75
+
+6: Acknowledgements
+
+75
+
+7: References
+
+75
+
+91"
+"
+
+EU"Cooperation"in"Science"and"Technology"""̶"""Action"TU1208""
+“Civil"Engineering"Applications"of"Ground"Penetrating"Radar”"
+
+"
+
+"
+
+Training School 1 – “Microwave Imaging and Diagnostics:
+Theory, Techniques, And Applications”
+Report by the MC Chair, Lara Pajewski
+
+77
+
+Training School 2 – “Future Radar Systems: Radar 2020”
+Report by the MC Chair, Lara Pajewski
+
+92"
+"
+
+83
+
+COST - European Cooperation in Science and Technology is an intergovernmental
+framework aimed at facilitating the collaboration and networking of scientists
+and researchers at European level. It was established in 1971 by 19 member
+countries and currently includes 35 member countries across Europe, and Israel
+as a cooperating state.
+COST funds pan-European, bottom-up networks of scientists and researchers
+across all science and technology fields. These networks, called 'COST Actions',
+promote international coordination of nationally-funded research. By fostering
+the networking of researchers at an international level, COST enables breakthrough scientific developments leading to new concepts and products, thereby
+contributing to strengthening Europe’s research and innovation capacities.
+COST’s mission focuses in particular on: building capacity by connecting high
+quality scientific communities throughout Europe and worldwide; providing
+networking opportunities for early career investigators; increasing the impact of
+research on policy makers, regulatory bodies and national decision makers as
+well as the private sector.
+Through its inclusiveness, COST supports the integration of research
+communities, leverages national research investments and addresses issues of
+global relevance. Every year thousands of European scientists benefit from being
+involved in COST Actions, allowing the pooling of national research funding to
+achieve common goals.
+As a precursor of advanced multidisciplinary research, COST anticipates and
+complements the activities of EU Framework Programmes, constituting a “bridge”
+towards the scientific communities of emerging countries. In particular, COST
+Actions are also open to participation by non-European scientists coming from
+neighbour countries (for example Albania, Algeria, Armenia, Azerbaijan, Belarus,
+Egypt, Georgia, Jordan, Lebanon, Libya, Moldova, Montenegro, Morocco, the
+Palestinian Authority, Russia, Syria, Tunisia and Ukraine) and from a number of
+international partner countries.
+COST's budget for networking activities has traditionally been provided by
+successive EU RTD Framework Programmes. COST is currently executed by the
+European Science Foundation (ESF) through the COST Office on a mandate by
+the European Commission, and the framework is governed by a Committee of
+Senior Officials (CSO) representing all its 35 member countries.
+More information about COST is available at www.cost.eu.
+The scientific activities of the COST Action TU1208 are carried out within
+four Working Groups (WGs). The effectiveness of this scheme will be checked
+after the first year of activities and will eventually be modified, considering the
+actual number of active participants in each WG. The structure of each WG
+will always be kept as flexible as possible, in order to enable new participants
+to join. All the participants, when joining the Action, are invited to provide
+basic information on their experience, interests, and current research projects,
+as well as WGs and Projects preferences. Each participant can belong to two
+WGs and an arbitrary number of projects within the chosen WGs.
+The four TU1208 WGs are: WG1 – Novel GPR instrumentation; WG2 – GPR
+surveying of pavements, bridges, tunnels and buildings; underground utility
+and void sensing; WG3 – EM methods for near-field scattering problems by
+buried structures and data processing techniques; WG4 – Different
+applications of GPR and other NDT technologies in civil engineering. The WG
+meetings constitute an opportunity to present activities, results and plans for
+the future. Between meetings, the WG members regularly interact.
+
+COST%%ACTION%%TU1208%
+!
+CIVIL%%ENGINEERING%%APPLICATIONS%%OF%GROUND%%PENETRATING%%RADAR%%%
+
+Short:Term%Scientific%Missions%and%Training%Schools%"!Year!1%
+!
+
+!
+
+!
+
+!
+The! COST! Action! TU1208! focuses! on! the! exchange! of! scientific"technical! knowledge! and! experience! of!
+Ground! Penetrating! Radar! (GPR)! techniques! in! Civil! Engineering! (CE).! The! project! is! being! developed!
+within! the! frame! of! a! unique! approach! based! on! the! integrated! contribution! of! University! researchers,!
+software! developers,! geophysics! experts,! Non"Destructive! Testing! equipment! designers! and! producers,!
+end! users! from! private! companies! and! public! agencies.! In! this! interdisciplinary! Action,! advantages! and!
+limitations!of! GPR! will!be!highlighted!leading!to!the! identification!of! gaps!in! knowledge!and! technology.!
+Protocols!and!guidelines!for!EU!Standards!will!be!developed,!for!effective!application!of!GPR!in!CE.!A!novel!
+GPR! will! be! designed! and! realized:! a! multi"static! system,! with! dedicated! software! and! calibration!
+procedures,! able! to! construct! real"time! lane! 3D! high! resolution! images! of! investigated! areas.! Advanced!
+electromagnetic"scattering! and! data"processing! techniques! will! be! developed.! The! understanding! of!
+relationships!between!geophysical!parameters!and!CE!needs!will!be!improved.!Freeware!software!will!be!
+released,!for!inspection!and!monitoring!of!structures!and!infrastructures,!buried"object!localization,!shape!
+reconstruction! and! estimation! of! useful! parameters.! A! high! level! training! program! will! be! organized.!
+Mobility! of!early!career!researchers!will! be!encouraged.!The!project! has!already!received!the!interest!of!
+key!end!users!and!excellent!EU!Institutions.!
+!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!www.GPRadar.eu!!
+www.cost.eu/domains_actions/tud/Actions/TU1208!
+This!publication!is!supported!by!COST!
+!
+!
+
+

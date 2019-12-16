@@ -1,0 +1,99 @@
+Теги:
+тема
+аннотация
+ключевые слова
+благодарности
+введение
+метод георадиолокации
+обзор литературы
+литературный обзор
+атрибутный анализ
+текстурный анализ
+предварительная обработка
+эксперимент
+оборудование
+обработка
+моделирование
+формулы
+результаты
+выводы
+приложения георадиолокации
+научный словарь Лебедева
+научный словарь лебедева
+научный словарь Циммермана
+нейронная сеть
+
+
+
+Словарь англоязычных терминов по GPR.gls - полностью переведено
+DAAD.gls - полностью переведено
+dossi(Italy)2015Auto-picking and phase assessment by means of attribute analysis applied to GPR pavement inspection.gls - статья, переведенная полностью
+
+Статьи, у которых переведены только аннотации:
+benedetto(Italy)2016An  overview  of GPR signal processing techniques for road inspections.gls
+forte(Italy)2014Velocity analysis from common offset GPR data inversion.gls
+Forte(Italy)2016Review of multi-offset GPR applications Data acquisition, processing and analysis.gls
+Kind(Germany)2011GPR antenna array for the inspection of railway ballast.gls
+Pue(Belguim)2016Accounting for Surface Refraction in Velocity Semblance Analysis With Air-Coupled GPR.gls
+Saarenketo(Finland)2000Road evaluation with GPR.gls
+tronicke(Germany)2015Towards automatic delineation.gls
+zhao(China), Forte(Italy)2013GPR attribute analysis for archaeological prospection.gls
+Zhao(Italy)2016Texture Attribute Analysis of GPR Data for Archaeological Prospection.gls
+Tong2018.gls
+
+Непереведенные статьи:
+Allroggen(Germany)_Topographic migration of GPR data with variable.gls
+Baan(France)2000_Neural networks in geophysical applications.gls
+benedetto(Italy)2007_Indirect diagnosis of pavement structural damages using surface GPR reflection techniques.gls
+Benedetto(Italy)2013_GPR spectral analysis for clay content evaluation.gls
+benedetto(Italy)2017_Railway ballast condition assessment using GPR.gls
+Bostanudin_USA_2013_Computational_Methods_for_Proc.gls
+Brancadoro(Italy)2017_An investigation into the railway ballast grading using GPR and image analysis.gls
+cannazza2012.gls
+Carriere(France)_Combining Electrical Resistivity Tomography and Ground Penetrating Radar (karst)_2013.gls
+Deng(China)_Investigation of karst cavities under the railway basement by GPR_2014.gls
+economou2016_Advanced GPR Signal Processing Techniques.gls
+fernandes(Portugal)2017_Assessment of the density and moisture content of asphalt mixtures of road pavements.gls
+Forte(Italy)2013_estimate the density of frozen materials.gls
+Huisman2001.gls
+Leng(Hong Kong)2014_An innovative method for measuring pavement dielectric constant using the extended CMP method with two air-coupled GPR systems.gls
+marecos(Portugal)2017_Assessing the pavement subgrade by combining different non-destructive methods.gls
+Muller(Germany)2014.gls
+Novo_Advances in GPR Imaging with Multi-channel Radar Systems_2013.gls
+Qian(China)_GPR surveys for permafrost assessment in the Qinghai-Tibet_2015.gls
+Reichman(USA)2017_Some good practices for applying convolutional neural networks io buried threat detection in GPR.gls
+robinson2003.gls
+Rodes(Spain)2015_Evaluation of the GPR frequency spectra in asphalt pavement assessment.gls
+Rodriguez(Spain)2015_A prediction algorithm for data analysis in GPR-based surveys.gls
+Salvador_Platform for Research and Education on GPR_2013.gls
+Schennen(Germany)_The potential of common-offset GPR surveying in complex permafrost environments Siberia_2015.gls
+Szymczyk(Poland)2015_Classiﬁcation of geological structure using GPR and Laplace transform artiﬁcial neural networks.gls
+Todkar(France)2017_Detection of debondings with GPR using machine learning method.gls
+tong(China)2017_concealed cracks_neural networks.gls
+Tong(China)2017_Recognition, location, measurement, and 3D reconstruction of concealed cracks using convolutional neural networks.gls
+Varela-Gonzalez(Spain)_A semi-automatic processing and visualisation tool for GPR pavement thickness data.gls
+Warren(UK)_An advanced GPR modelling framework the next generation of gprMax_2015.gls
+Wollschlager(Germany)_Multi-channel GPR to explore spatial variations in thaw depth and moisture content in the active layer of a permafrost site_2010.gls
+Xie(China)2013_An automatic recognition algorithm for GPR images of RC structure voids.gls
+Zhao2016_Development of an analytic approach utilizing the extended CMP method to estimate asphalt pavement thickness with 3-D ground-penetrating radar.gls
+
+Непереведенные сборники:
+PROCEEDINGS-2-COST-ACTION-TU1208.gls
+Proceedings-Vienna-WEB.gls
+PROCEEDINGS_1_COST_ACTION_TU1208.gls
+STSM_TS_Y1_WEB.gls
+GPR_journal2017_issue1.gls
+
+Непереведенные учебники и диссертации:
+Benedetto_Civil Engineering Applications of GPR_2015.gls
+Conyers_USA_GPR_for_geoarchaeology_2016.gls
+Daniels_Ground_Penetration_radar_2004.gls
+Goodman_GPR Remote Sensing in Archaeology_2013.gls
+Jol_GPR_2009.gls
+Persico_Introduction_to_GPR_2014.gls
+Utsi_UK_GPR_Theory_and_practice_2017.gls
+Alsadi2017_Seismic Hydrocarbon Exploration
+
+Русско-английские научные словари:
+Лебедев.gls
+Циммерман.gls
