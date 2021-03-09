@@ -5,3 +5,5 @@
 *.djvu
 *.doc
 *.docx
+/__pycache__
+/env
